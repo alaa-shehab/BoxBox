@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=75"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pit-wall"
+version = "0.1.0"
+description = "AI race companion for F1 fans: replay any race, get it explained at your level, and play a simulator-backed prediction game."
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = [
+  "pydantic>=2.9,<3",
+  "pydantic-settings>=2.6,<3",
+  "sqlalchemy>=2.0.36,<3",
+  "psycopg[binary]>=3.2,<4",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.3,<10",
+  "pytest-cov>=5",
+  "ruff>=0.16,<0.17",
+]
+
+[tool.setuptools.packages.find]
+include = ["core*", "api*", "ui*"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+extend-exclude = ["pit-window.html"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP", "SIM", "RUF", "N"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra --strict-markers"
+markers = [
+  "postgres: needs a Postgres server (TEST_POSTGRES_URL)",
+  "network: needs outbound network access",
+]
