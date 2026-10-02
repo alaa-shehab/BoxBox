@@ -5,6 +5,7 @@ from __future__ import annotations
 from collections.abc import Iterable
 
 from core.events.types import Event
+from core.profiles.teams import same_team
 
 DRIVER_BOOST = 1.75
 TEAM_BOOST = 1.4
@@ -15,12 +16,12 @@ def personalise(
 ) -> list[Event]:
     """Return copies with `importance` boosted for favourites, most important first."""
     drivers = {d.upper() for d in favourite_drivers}
-    team = (favourite_team or "").casefold()
+    team = favourite_team or ""
     out = []
     for e in events:
         if drivers & set(e.drivers):
             factor = DRIVER_BOOST
-        elif team and any(t.casefold() == team for t in e.teams):
+        elif team and any(same_team(t, team) for t in e.teams):
             factor = TEAM_BOOST
         else:
             factor = 1.0
