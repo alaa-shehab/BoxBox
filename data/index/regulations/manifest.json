@@ -1,0 +1,38 @@
+{
+ "model": "BAAI/bge-small-en-v1.5",
+ "dims": 384,
+ "count": 1754,
+ "built_at": "2026-10-02T18:54:37+00:00",
+ "sources": [
+  {
+   "doc_id": "2025_sporting",
+   "title": "2025 F1 Sporting Regulations (Issue 5)",
+   "url": "https://www.fia.com/system/files/documents/fia_2025_formula_1_sporting_regulations_-_issue_5_-_2025-04-30.pdf"
+  },
+  {
+   "doc_id": "2025_technical",
+   "title": "2025 F1 Technical Regulations (Issue 3)",
+   "url": "https://www.fia.com/sites/default/files/documents/fia_2025_formula_1_technical_regulations_-_issue_03_-_2025-04-07.pdf"
+  },
+  {
+   "doc_id": "2025_financial",
+   "title": "2025 F1 Financial Regulations (Issue 25)",
+   "url": "https://www.fia.com/system/files/documents/2025_fia_formula_1_financial_regulations_-_issue_25_-_2025-07-31.pdf"
+  },
+  {
+   "doc_id": "2026_sporting",
+   "title": "2026 F1 Sporting Regulations (Issue 9)",
+   "url": "https://www.fia.com/system/files/documents/fia_2026_f1_regulations_-_section_b_sporting_-_iss_09_-_2026-10-01.pdf"
+  },
+  {
+   "doc_id": "2026_technical",
+   "title": "2026 F1 Technical Regulations (Issue 20)",
+   "url": "https://www.fia.com/system/files/documents/fia_2026_f1_regulations_-_section_c_technical_-_iss_20_-_2026-08-05.pdf"
+  },
+  {
+   "doc_id": "2026_financial",
+   "title": "2026 F1 Financial Regulations (Issue 8)",
+   "url": "https://www.fia.com/system/files/documents/fia_2026_f1_regulations_-_section_d_financial_-_f1_teams_-_iss_08_-_2026-10-01.pdf"
+  }
+ ]
+}

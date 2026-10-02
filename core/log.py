@@ -58,6 +58,8 @@ def configure_logging(level: str = "INFO", json_output: bool = False) -> None:
     root = logging.getLogger()
     root.handlers[:] = [handler]
     root.setLevel(level.upper())
+    for noisy in ("httpx", "httpcore", "huggingface_hub", "urllib3", "chromadb", "fastf1"):
+        logging.getLogger(noisy).setLevel(max(logging.WARNING, root.level))
 
 
 def get_logger(name: str) -> logging.Logger:

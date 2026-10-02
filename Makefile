@@ -1,6 +1,6 @@
 PY ?= python
 
-.PHONY: help install lint format test test-pg ingest build-data backtest eval run api
+.PHONY: help install lint format test test-pg ingest ablation build-data backtest eval run api
 
 help:  ## List targets
 	@grep -E '^[a-z-]+:.*##' $(MAKEFILE_LIST) | awk -F':.*## ' '{printf "  %-12s %s\n", $$1, $$2}'
@@ -22,9 +22,11 @@ test:  ## Unit + integration tests (external APIs and LLMs mocked)
 test-pg:  ## Tests including Postgres (needs TEST_POSTGRES_URL)
 	$(PY) -m pytest -m postgres
 
-ingest:  ## Build the regulations index and facts corpus
+ingest:  ## Download FIA regulations and build the retrieval index
 	$(PY) scripts/ingest_regs.py
-	$(PY) scripts/build_facts.py
+
+ablation:  ## Retrieval ablation (dense / BM25 / hybrid / +rerank) -> evals/results.md
+	$(PY) scripts/run_ablation.py
 
 build-data:  ## Build replays, degradation fits and track parameters (needs network)
 	$(PY) scripts/build_replays.py

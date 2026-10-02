@@ -189,7 +189,15 @@ class Score:         profile_id, race_id, points, breakdown: dict
 - CI: lint and unit tests on every push. On PRs to main, a ~12-case subset is gated by `thresholds.yaml`. The `GROQ_API_KEY` and `CEREBRAS_API_KEY` repo secrets (both free) are needed. The subset is sized to stay well inside free daily quotas. Fork PRs skip the eval job.
 
 ### Memory and cold-start budget (Streamlit Cloud)
-streamlit ~120MB, plus pandas/numpy/pyarrow ~120MB, plus chromadb ~60MB, plus onnxruntime with the bge-small and MiniLM reranker models ~200MB, plus indexes ~20MB, plus langchain ~60MB. **That totals about 580MB.** FastF1 is imported lazily (only for on-demand races). The reranker loads lazily on the first regulations query, with a measured fallback to hybrid-only if RSS runs high. Phase 13 measures this with `psutil` and logs it on `/health`.
+Measured in Phase 5 (RSS, Python 3.11, warm after 9 queries):
+
+| Component | RSS |
+|---|---:|
+| Core + pandas + 5 showcase replays | 159 MB |
+| + regulations index, Chroma, BM25, bge-small embedder, MiniLM reranker | ~600 MB |
+| + LangChain / Groq client | ~603 MB |
+
+ONNX Runtime was the surprise. The defaults (batch 64, CPU memory arena on) grew to **949 MB** and kept climbing. With batch 8, 2 threads and the arena off, RSS stays flat at about 600 MB, for about 20% more rerank latency. Streamlit adds about 100 MB on top. If Community Cloud's allowance is tight, `RERANK_ENABLED=false` saves about 130 MB; the ablation in `evals/results.md` shows what that costs in retrieval precision. Phase 13 re-measures this on the real host. FastF1 is imported lazily, only for on-demand races.
 
 ---
 

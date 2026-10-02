@@ -18,10 +18,20 @@ dependencies = [
   "pydantic-settings>=2.6,<3",
   "sqlalchemy>=2.0.36,<3",
   "psycopg[binary]>=3.2,<4",
+  "chromadb>=1.5,<2",
+  "fastembed>=0.8,<0.9",
+  "rank-bm25>=0.2.2",
+  "langchain-core>=1.6,<2",
+  "langchain-groq>=1.1,<2",
+  "langchain-openai>=1.6,<2",  # OpenAI-compatible client, used for Cerebras' free tier
 ]
 
 [project.optional-dependencies]
+ingest = ["pypdf>=6"]  # only for building the regulations index
+ollama = ["langchain-ollama>=1.1"]  # local LLM fallback (Docker / dev)
 dev = [
+  "pypdf>=6",
+  "psutil>=6",
   "pytest>=8.3,<10",
   "pytest-cov>=5",
   "ruff>=0.16,<0.17",
@@ -40,6 +50,7 @@ extend-exclude = ["pit-window.html"]
 
 [tool.ruff.lint]
 select = ["E", "F", "W", "I", "B", "UP", "SIM", "RUF", "N"]
+ignore = ["SIM905"]  # word lists via str.split() read better than 40-item literals
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
@@ -47,4 +58,5 @@ addopts = "-ra --strict-markers"
 markers = [
   "postgres: needs a Postgres server (TEST_POSTGRES_URL)",
   "network: needs outbound network access",
+  "models: downloads and runs the local ONNX embedding/reranker models",
 ]

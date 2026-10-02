@@ -72,14 +72,20 @@ class Settings(BaseSettings):
     groq_api_key: SecretStr | None = None
     cerebras_api_key: SecretStr | None = None
     ollama_base_url: str = "http://localhost:11434"
-    chat_model: str = "openai/gpt-oss-120b"
-    explainer_model: str = "openai/gpt-oss-20b"
+    chat_model: str = "openai/gpt-oss-120b"  # tool-calling chat agent
+    explainer_model: str = "openai/gpt-oss-20b"  # high-volume event explanations
+    judge_model: str = "qwen/qwen3.8-27b"  # eval judge: a different family than the generator
+    backup_model: str = "qwen/qwen3.8-27b"  # same-provider fallback when a model is limited
+    cerebras_model: str = "gpt-oss-120b"
+    ollama_model: str = "qwen3:4b"
     llm_requests_per_minute: int = Field(default=25, ge=1)
     llm_timeout_s: float = Field(default=30.0, gt=0)
 
     # --- local retrieval models (fastembed / ONNX) ---
     embedding_model: str = "BAAI/bge-small-en-v1.5"
     reranker_model: str = "Xenova/ms-marco-MiniLM-L-6-v2"
+    onnx_threads: int = Field(default=2, ge=1)  # small pools keep RSS low on 1-2 vCPU hosts
+    rerank_enabled: bool = True  # off saves ~130 MB RSS (see evals/results.md for the cost)
 
     # --- tracing (optional) ---
     langfuse_public_key: SecretStr | None = None

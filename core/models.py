@@ -236,3 +236,15 @@ class RaceState(BaseModel):
 
     def order(self) -> list[str]:
         return [d.code for d in sorted(self.drivers, key=lambda d: d.position)]
+
+
+class Citation(BaseModel):
+    """A source shown next to an answer: a regulation article, a URL, or a dataset."""
+
+    model_config = ConfigDict(frozen=True)
+
+    source_type: Literal["fia_regulation", "wikipedia", "jolpica", "fastf1", "simulator"]
+    label: str  # human-readable, e.g. "2025 F1 Sporting Regulations, Art. 55.1, p. 64"
+    url: str | None = None
+    article: str | None = None
+    page: int | None = None
