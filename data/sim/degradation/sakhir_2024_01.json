@@ -1,0 +1,18 @@
+{
+ "circuit_key": "sakhir",
+ "season": 2024,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0837,
+   "n_laps": 690,
+   "n_stints": 37,
+   "stderr": 0.002
+  },
+  "SOFT": {
+   "slope_s_per_lap": 0.0979,
+   "n_laps": 277,
+   "n_stints": 25,
+   "stderr": 0.006
+  }
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "circuit_key": "monaco",
+ "season": 2025,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.013,
+   "n_laps": 584,
+   "n_stints": 25,
+   "stderr": 0.0023
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0143,
+   "n_laps": 308,
+   "n_stints": 20,
+   "stderr": 0.0047
+  },
+  "SOFT": {
+   "slope_s_per_lap": -0.0714,
+   "n_laps": 31,
+   "n_stints": 3,
+   "stderr": 0.0156
+  }
+ }
+}

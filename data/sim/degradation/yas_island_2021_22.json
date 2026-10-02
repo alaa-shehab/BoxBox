@@ -1,0 +1,24 @@
+{
+ "circuit_key": "yas_island",
+ "season": 2021,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0058,
+   "n_laps": 446,
+   "n_stints": 19,
+   "stderr": 0.0022
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": -0.0132,
+   "n_laps": 214,
+   "n_stints": 12,
+   "stderr": 0.0051
+  },
+  "SOFT": {
+   "slope_s_per_lap": 0.0281,
+   "n_laps": 106,
+   "n_stints": 8,
+   "stderr": 0.0076
+  }
+ }
+}

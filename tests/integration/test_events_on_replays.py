@@ -3,7 +3,8 @@
 from __future__ import annotations
 
 from core.events.detector import EventDetector
-from core.feed.catalog import ReplayCatalog
+from core.feed.builder import race_id
+from core.feed.catalog import SHOWCASE_RACES, ReplayCatalog
 from core.feed.replay import ReplayFeed
 
 
@@ -38,8 +39,9 @@ def test_sao_paulo_2024_key_moments() -> None:
 
 def test_every_showcase_race_produces_a_sane_event_mix() -> None:
     catalog = ReplayCatalog.default()
-    for meta in catalog.available():
-        events = _all(catalog.feed(meta.race_id))
-        assert len({e.id for e in events}) == len(events), meta.race_id
+    for season, rnd in SHOWCASE_RACES:  # committed races only, not a local cache
+        rid = race_id(season, rnd)
+        events = _all(catalog.feed(rid))
+        assert len({e.id for e in events}) == len(events), rid
         assert all(0 <= e.base_importance <= 1 for e in events)
-        assert any(e.type == "pit_stop" for e in events), meta.race_id
+        assert any(e.type == "pit_stop" for e in events), rid

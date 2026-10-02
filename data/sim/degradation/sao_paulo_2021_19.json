@@ -1,0 +1,18 @@
+{
+ "circuit_key": "sao_paulo",
+ "season": 2021,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0423,
+   "n_laps": 613,
+   "n_stints": 29,
+   "stderr": 0.0026
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0381,
+   "n_laps": 412,
+   "n_stints": 38,
+   "stderr": 0.0046
+  }
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "circuit_key": "jeddah",
+ "season": 2021,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": -0.0056,
+   "n_laps": 209,
+   "n_stints": 13,
+   "stderr": 0.0036
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.005,
+   "n_laps": 251,
+   "n_stints": 24,
+   "stderr": 0.0048
+  }
+ }
+}

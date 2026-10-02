@@ -1,0 +1,30 @@
+{
+ "circuit_key": "imola",
+ "season": 2022,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": -0.0015,
+   "n_laps": 27,
+   "n_stints": 1,
+   "stderr": 0.01
+  },
+  "INTERMEDIATE": {
+   "slope_s_per_lap": 0.1279,
+   "n_laps": 161,
+   "n_stints": 18,
+   "stderr": 0.0167
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.005,
+   "n_laps": 632,
+   "n_stints": 18,
+   "stderr": 0.0018
+  },
+  "SOFT": {
+   "slope_s_per_lap": 0.0862,
+   "n_laps": 38,
+   "n_stints": 4,
+   "stderr": 0.0299
+  }
+ }
+}

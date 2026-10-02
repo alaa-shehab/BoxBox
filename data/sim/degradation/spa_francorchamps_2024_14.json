@@ -1,0 +1,24 @@
+{
+ "circuit_key": "spa_francorchamps",
+ "season": 2024,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0356,
+   "n_laps": 360,
+   "n_stints": 22,
+   "stderr": 0.004
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0396,
+   "n_laps": 312,
+   "n_stints": 27,
+   "stderr": 0.0044
+  },
+  "SOFT": {
+   "slope_s_per_lap": 0.0184,
+   "n_laps": 54,
+   "n_stints": 3,
+   "stderr": 0.0096
+  }
+ }
+}

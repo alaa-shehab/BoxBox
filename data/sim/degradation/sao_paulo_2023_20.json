@@ -1,0 +1,18 @@
+{
+ "circuit_key": "sao_paulo",
+ "season": 2023,
+ "by_compound": {
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0611,
+   "n_laps": 332,
+   "n_stints": 15,
+   "stderr": 0.0026
+  },
+  "SOFT": {
+   "slope_s_per_lap": 0.0531,
+   "n_laps": 624,
+   "n_stints": 35,
+   "stderr": 0.0028
+  }
+ }
+}

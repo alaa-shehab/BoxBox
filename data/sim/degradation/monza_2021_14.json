@@ -1,0 +1,18 @@
+{
+ "circuit_key": "monza",
+ "season": 2021,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0181,
+   "n_laps": 330,
+   "n_stints": 16,
+   "stderr": 0.0037
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0615,
+   "n_laps": 368,
+   "n_stints": 18,
+   "stderr": 0.0032
+  }
+ }
+}

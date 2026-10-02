@@ -1,0 +1,24 @@
+{
+ "circuit_key": "silverstone",
+ "season": 2023,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0244,
+   "n_laps": 113,
+   "n_stints": 8,
+   "stderr": 0.0052
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0174,
+   "n_laps": 423,
+   "n_stints": 17,
+   "stderr": 0.002
+  },
+  "SOFT": {
+   "slope_s_per_lap": 0.0241,
+   "n_laps": 243,
+   "n_stints": 17,
+   "stderr": 0.0051
+  }
+ }
+}

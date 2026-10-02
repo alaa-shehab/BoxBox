@@ -1,0 +1,30 @@
+{
+ "circuit_key": "monaco",
+ "season": 2022,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": -0.014,
+   "n_laps": 156,
+   "n_stints": 7,
+   "stderr": 0.0076
+  },
+  "INTERMEDIATE": {
+   "slope_s_per_lap": -0.1889,
+   "n_laps": 36,
+   "n_stints": 5,
+   "stderr": 0.0337
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": -0.0029,
+   "n_laps": 203,
+   "n_stints": 10,
+   "stderr": 0.0069
+  },
+  "WET": {
+   "slope_s_per_lap": -0.3636,
+   "n_laps": 63,
+   "n_stints": 11,
+   "stderr": 0.0339
+  }
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "circuit_key": "montreal",
+ "season": 2024,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": -0.101,
+   "n_laps": 57,
+   "n_stints": 5,
+   "stderr": 0.0086
+  },
+  "INTERMEDIATE": {
+   "slope_s_per_lap": -0.0816,
+   "n_laps": 263,
+   "n_stints": 35,
+   "stderr": 0.0093
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": -0.0793,
+   "n_laps": 153,
+   "n_stints": 15,
+   "stderr": 0.0074
+  }
+ }
+}

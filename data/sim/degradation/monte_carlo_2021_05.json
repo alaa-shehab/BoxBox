@@ -1,0 +1,24 @@
+{
+ "circuit_key": "monte_carlo",
+ "season": 2021,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0194,
+   "n_laps": 610,
+   "n_stints": 16,
+   "stderr": 0.0017
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0008,
+   "n_laps": 205,
+   "n_stints": 6,
+   "stderr": 0.0038
+  },
+  "SOFT": {
+   "slope_s_per_lap": -0.0061,
+   "n_laps": 393,
+   "n_stints": 16,
+   "stderr": 0.0034
+  }
+ }
+}

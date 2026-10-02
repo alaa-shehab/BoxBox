@@ -1,0 +1,24 @@
+{
+ "circuit_key": "sakhir",
+ "season": 2022,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.1261,
+   "n_laps": 85,
+   "n_stints": 7,
+   "stderr": 0.0131
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.1168,
+   "n_laps": 281,
+   "n_stints": 23,
+   "stderr": 0.0058
+  },
+  "SOFT": {
+   "slope_s_per_lap": 0.1496,
+   "n_laps": 461,
+   "n_stints": 47,
+   "stderr": 0.0049
+  }
+ }
+}

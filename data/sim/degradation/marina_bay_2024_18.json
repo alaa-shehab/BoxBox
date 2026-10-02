@@ -1,0 +1,24 @@
+{
+ "circuit_key": "marina_bay",
+ "season": 2024,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.047,
+   "n_laps": 464,
+   "n_stints": 16,
+   "stderr": 0.0024
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0526,
+   "n_laps": 471,
+   "n_stints": 19,
+   "stderr": 0.0025
+  },
+  "SOFT": {
+   "slope_s_per_lap": 0.0189,
+   "n_laps": 83,
+   "n_stints": 6,
+   "stderr": 0.0103
+  }
+ }
+}

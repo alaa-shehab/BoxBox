@@ -1,0 +1,18 @@
+{
+ "circuit_key": "monza",
+ "season": 2023,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0725,
+   "n_laps": 434,
+   "n_stints": 19,
+   "stderr": 0.0019
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0841,
+   "n_laps": 387,
+   "n_stints": 25,
+   "stderr": 0.0036
+  }
+ }
+}

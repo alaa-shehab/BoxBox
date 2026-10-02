@@ -1,0 +1,18 @@
+{
+ "circuit_key": "melbourne",
+ "season": 2023,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": -0.0082,
+   "n_laps": 610,
+   "n_stints": 17,
+   "stderr": 0.0013
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0425,
+   "n_laps": 53,
+   "n_stints": 2,
+   "stderr": 0.0069
+  }
+ }
+}

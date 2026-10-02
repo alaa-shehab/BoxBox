@@ -1,0 +1,12 @@
+{
+ "circuit_key": "sao_paulo",
+ "season": 2024,
+ "by_compound": {
+  "INTERMEDIATE": {
+   "slope_s_per_lap": -0.032,
+   "n_laps": 780,
+   "n_stints": 33,
+   "stderr": 0.0026
+  }
+ }
+}

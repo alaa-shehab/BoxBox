@@ -1,0 +1,24 @@
+{
+ "circuit_key": "shanghai",
+ "season": 2024,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0825,
+   "n_laps": 408,
+   "n_stints": 24,
+   "stderr": 0.0025
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0929,
+   "n_laps": 262,
+   "n_stints": 25,
+   "stderr": 0.0064
+  },
+  "SOFT": {
+   "slope_s_per_lap": 0.152,
+   "n_laps": 54,
+   "n_stints": 6,
+   "stderr": 0.0185
+  }
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "circuit_key": "spielberg",
+ "season": 2022,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.066,
+   "n_laps": 477,
+   "n_stints": 23,
+   "stderr": 0.0028
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0585,
+   "n_laps": 268,
+   "n_stints": 20,
+   "stderr": 0.0042
+  }
+ }
+}

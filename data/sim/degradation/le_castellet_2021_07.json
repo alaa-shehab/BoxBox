@@ -1,0 +1,24 @@
+{
+ "circuit_key": "le_castellet",
+ "season": 2021,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0251,
+   "n_laps": 574,
+   "n_stints": 20,
+   "stderr": 0.0024
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0531,
+   "n_laps": 327,
+   "n_stints": 21,
+   "stderr": 0.0055
+  },
+  "SOFT": {
+   "slope_s_per_lap": 0.0319,
+   "n_laps": 18,
+   "n_stints": 1,
+   "stderr": 0.0217
+  }
+ }
+}

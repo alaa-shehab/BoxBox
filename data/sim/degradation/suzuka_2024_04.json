@@ -1,0 +1,24 @@
+{
+ "circuit_key": "suzuka",
+ "season": 2024,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0562,
+   "n_laps": 453,
+   "n_stints": 27,
+   "stderr": 0.004
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0757,
+   "n_laps": 223,
+   "n_stints": 17,
+   "stderr": 0.0067
+  },
+  "SOFT": {
+   "slope_s_per_lap": 0.0933,
+   "n_laps": 41,
+   "n_stints": 4,
+   "stderr": 0.0172
+  }
+ }
+}

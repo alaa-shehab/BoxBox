@@ -1,0 +1,24 @@
+{
+ "circuit_key": "portimao",
+ "season": 2021,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0124,
+   "n_laps": 389,
+   "n_stints": 13,
+   "stderr": 0.002
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0089,
+   "n_laps": 481,
+   "n_stints": 18,
+   "stderr": 0.0017
+  },
+  "SOFT": {
+   "slope_s_per_lap": -0.0025,
+   "n_laps": 125,
+   "n_stints": 8,
+   "stderr": 0.005
+  }
+ }
+}

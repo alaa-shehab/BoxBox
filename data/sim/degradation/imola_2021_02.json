@@ -1,0 +1,24 @@
+{
+ "circuit_key": "imola",
+ "season": 2021,
+ "by_compound": {
+  "INTERMEDIATE": {
+   "slope_s_per_lap": -0.0414,
+   "n_laps": 184,
+   "n_stints": 18,
+   "stderr": 0.0129
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": -0.0163,
+   "n_laps": 256,
+   "n_stints": 13,
+   "stderr": 0.0038
+  },
+  "SOFT": {
+   "slope_s_per_lap": -0.0149,
+   "n_laps": 108,
+   "n_stints": 5,
+   "stderr": 0.0058
+  }
+ }
+}

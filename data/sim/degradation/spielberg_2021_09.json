@@ -1,0 +1,24 @@
+{
+ "circuit_key": "spielberg",
+ "season": 2021,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.02,
+   "n_laps": 750,
+   "n_stints": 27,
+   "stderr": 0.0015
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0039,
+   "n_laps": 364,
+   "n_stints": 14,
+   "stderr": 0.003
+  },
+  "SOFT": {
+   "slope_s_per_lap": -0.0185,
+   "n_laps": 39,
+   "n_stints": 4,
+   "stderr": 0.029
+  }
+ }
+}

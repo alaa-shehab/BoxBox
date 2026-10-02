@@ -1,0 +1,18 @@
+{
+ "circuit_key": "las_vegas",
+ "season": 2023,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": -0.0011,
+   "n_laps": 528,
+   "n_stints": 29,
+   "stderr": 0.0037
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0097,
+   "n_laps": 140,
+   "n_stints": 15,
+   "stderr": 0.0136
+  }
+ }
+}

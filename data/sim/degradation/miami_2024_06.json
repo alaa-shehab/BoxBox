@@ -1,0 +1,24 @@
+{
+ "circuit_key": "miami",
+ "season": 2024,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0228,
+   "n_laps": 396,
+   "n_stints": 19,
+   "stderr": 0.0023
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0195,
+   "n_laps": 469,
+   "n_stints": 25,
+   "stderr": 0.0026
+  },
+  "SOFT": {
+   "slope_s_per_lap": 0.013,
+   "n_laps": 32,
+   "n_stints": 2,
+   "stderr": 0.0104
+  }
+ }
+}

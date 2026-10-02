@@ -1,0 +1,18 @@
+{
+ "circuit_key": "yas_island",
+ "season": 2023,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0468,
+   "n_laps": 757,
+   "n_stints": 36,
+   "stderr": 0.0019
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0805,
+   "n_laps": 250,
+   "n_stints": 19,
+   "stderr": 0.0051
+  }
+ }
+}

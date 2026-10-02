@@ -1,0 +1,18 @@
+{
+ "circuit_key": "montreal",
+ "season": 2022,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0352,
+   "n_laps": 718,
+   "n_stints": 30,
+   "stderr": 0.0015
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0166,
+   "n_laps": 245,
+   "n_stints": 19,
+   "stderr": 0.0058
+  }
+ }
+}

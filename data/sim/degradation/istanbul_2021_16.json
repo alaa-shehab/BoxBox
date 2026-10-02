@@ -1,0 +1,12 @@
+{
+ "circuit_key": "istanbul",
+ "season": 2021,
+ "by_compound": {
+  "INTERMEDIATE": {
+   "slope_s_per_lap": 0.0056,
+   "n_laps": 956,
+   "n_stints": 39,
+   "stderr": 0.0024
+  }
+ }
+}

@@ -1,0 +1,24 @@
+{
+ "circuit_key": "austin",
+ "season": 2021,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0655,
+   "n_laps": 549,
+   "n_stints": 30,
+   "stderr": 0.0033
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0417,
+   "n_laps": 258,
+   "n_stints": 25,
+   "stderr": 0.0083
+  },
+  "SOFT": {
+   "slope_s_per_lap": -0.0842,
+   "n_laps": 15,
+   "n_stints": 2,
+   "stderr": 0.0421
+  }
+ }
+}

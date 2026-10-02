@@ -1,0 +1,18 @@
+{
+ "circuit_key": "miami",
+ "season": 2023,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0222,
+   "n_laps": 763,
+   "n_stints": 20,
+   "stderr": 0.0013
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0174,
+   "n_laps": 282,
+   "n_stints": 17,
+   "stderr": 0.0044
+  }
+ }
+}

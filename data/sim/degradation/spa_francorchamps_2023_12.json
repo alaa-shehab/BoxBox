@@ -1,0 +1,18 @@
+{
+ "circuit_key": "spa_francorchamps",
+ "season": 2023,
+ "by_compound": {
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0996,
+   "n_laps": 255,
+   "n_stints": 25,
+   "stderr": 0.0086
+  },
+  "SOFT": {
+   "slope_s_per_lap": 0.0988,
+   "n_laps": 284,
+   "n_stints": 24,
+   "stderr": 0.0065
+  }
+ }
+}

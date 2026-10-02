@@ -1,0 +1,24 @@
+{
+ "circuit_key": "barcelona",
+ "season": 2023,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0471,
+   "n_laps": 479,
+   "n_stints": 22,
+   "stderr": 0.0026
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0405,
+   "n_laps": 358,
+   "n_stints": 17,
+   "stderr": 0.003
+  },
+  "SOFT": {
+   "slope_s_per_lap": 0.0314,
+   "n_laps": 310,
+   "n_stints": 22,
+   "stderr": 0.0048
+  }
+ }
+}

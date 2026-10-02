@@ -1,0 +1,24 @@
+{
+ "circuit_key": "lusail",
+ "season": 2021,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0022,
+   "n_laps": 354,
+   "n_stints": 15,
+   "stderr": 0.0034
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": -0.0123,
+   "n_laps": 379,
+   "n_stints": 20,
+   "stderr": 0.0042
+  },
+  "SOFT": {
+   "slope_s_per_lap": -0.0312,
+   "n_laps": 182,
+   "n_stints": 12,
+   "stderr": 0.0075
+  }
+ }
+}

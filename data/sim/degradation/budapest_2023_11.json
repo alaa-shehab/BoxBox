@@ -1,0 +1,24 @@
+{
+ "circuit_key": "budapest",
+ "season": 2023,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0541,
+   "n_laps": 680,
+   "n_stints": 28,
+   "stderr": 0.002
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0419,
+   "n_laps": 385,
+   "n_stints": 23,
+   "stderr": 0.0035
+  },
+  "SOFT": {
+   "slope_s_per_lap": -0.0122,
+   "n_laps": 27,
+   "n_stints": 3,
+   "stderr": 0.0225
+  }
+ }
+}

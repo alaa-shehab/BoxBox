@@ -1,0 +1,18 @@
+{
+ "circuit_key": "sakhir",
+ "season": 2023,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.08,
+   "n_laps": 489,
+   "n_stints": 33,
+   "stderr": 0.0026
+  },
+  "SOFT": {
+   "slope_s_per_lap": 0.1257,
+   "n_laps": 368,
+   "n_stints": 32,
+   "stderr": 0.0048
+  }
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "circuit_key": "baku",
+ "season": 2023,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.006,
+   "n_laps": 680,
+   "n_stints": 21,
+   "stderr": 0.0013
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0028,
+   "n_laps": 134,
+   "n_stints": 17,
+   "stderr": 0.0124
+  }
+ }
+}

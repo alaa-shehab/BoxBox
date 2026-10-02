@@ -1,0 +1,18 @@
+{
+ "circuit_key": "silverstone",
+ "season": 2021,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0124,
+   "n_laps": 467,
+   "n_stints": 19,
+   "stderr": 0.0023
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": -0.0326,
+   "n_laps": 336,
+   "n_stints": 20,
+   "stderr": 0.0041
+  }
+ }
+}

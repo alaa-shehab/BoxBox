@@ -1,0 +1,18 @@
+{
+ "circuit_key": "mexico_city",
+ "season": 2023,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0468,
+   "n_laps": 461,
+   "n_stints": 23,
+   "stderr": 0.0024
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0426,
+   "n_laps": 598,
+   "n_stints": 24,
+   "stderr": 0.0021
+  }
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "circuit_key": "barcelona",
+ "season": 2021,
+ "by_compound": {
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0458,
+   "n_laps": 520,
+   "n_stints": 24,
+   "stderr": 0.0028
+  },
+  "SOFT": {
+   "slope_s_per_lap": 0.0321,
+   "n_laps": 470,
+   "n_stints": 32,
+   "stderr": 0.0038
+  }
+ }
+}

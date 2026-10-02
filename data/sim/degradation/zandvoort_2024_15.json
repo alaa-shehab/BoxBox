@@ -1,0 +1,24 @@
+{
+ "circuit_key": "zandvoort",
+ "season": 2024,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0367,
+   "n_laps": 731,
+   "n_stints": 20,
+   "stderr": 0.0013
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.039,
+   "n_laps": 459,
+   "n_stints": 20,
+   "stderr": 0.0024
+  },
+  "SOFT": {
+   "slope_s_per_lap": 0.0475,
+   "n_laps": 100,
+   "n_stints": 6,
+   "stderr": 0.0082
+  }
+ }
+}

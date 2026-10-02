@@ -1,0 +1,30 @@
+{
+ "circuit_key": "zandvoort",
+ "season": 2023,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": -0.029,
+   "n_laps": 37,
+   "n_stints": 1,
+   "stderr": 0.0094
+  },
+  "INTERMEDIATE": {
+   "slope_s_per_lap": -0.0134,
+   "n_laps": 145,
+   "n_stints": 31,
+   "stderr": 0.0338
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0031,
+   "n_laps": 146,
+   "n_stints": 8,
+   "stderr": 0.0062
+  },
+  "SOFT": {
+   "slope_s_per_lap": 0.0161,
+   "n_laps": 468,
+   "n_stints": 26,
+   "stderr": 0.0028
+  }
+ }
+}

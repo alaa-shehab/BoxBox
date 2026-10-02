@@ -1,0 +1,18 @@
+{
+ "circuit_key": "imola",
+ "season": 2024,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.045,
+   "n_laps": 607,
+   "n_stints": 19,
+   "stderr": 0.0015
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": 0.0675,
+   "n_laps": 433,
+   "n_stints": 23,
+   "stderr": 0.0028
+  }
+ }
+}

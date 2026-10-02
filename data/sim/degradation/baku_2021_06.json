@@ -1,0 +1,24 @@
+{
+ "circuit_key": "baku",
+ "season": 2021,
+ "by_compound": {
+  "HARD": {
+   "slope_s_per_lap": 0.0052,
+   "n_laps": 490,
+   "n_stints": 21,
+   "stderr": 0.002
+  },
+  "MEDIUM": {
+   "slope_s_per_lap": -0.0288,
+   "n_laps": 15,
+   "n_stints": 2,
+   "stderr": 0.0582
+  },
+  "SOFT": {
+   "slope_s_per_lap": -0.0945,
+   "n_laps": 130,
+   "n_stints": 16,
+   "stderr": 0.0169
+  }
+ }
+}
