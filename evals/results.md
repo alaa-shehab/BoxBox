@@ -7,9 +7,9 @@
 
 | Retrieval | hit@1 | hit@5 | MRR@10 | p50 latency |
 |---|---:|---:|---:|---:|
-| Dense only (bge-small) | 0.74 | 0.83 | 0.79 | 10 ms |
+| Dense only (bge-small) | 0.74 | 0.83 | 0.79 | 13 ms |
 | BM25 only | 0.54 | 0.83 | 0.68 | 2 ms |
-| Hybrid (BM25 + dense, RRF) | 0.71 | 0.89 | 0.79 | 12 ms |
-| Hybrid + cross-encoder rerank | 0.86 | 0.94 | 0.90 | 897 ms |
+| Hybrid (BM25 + dense, RRF) | 0.71 | 0.89 | 0.79 | 17 ms |
+| Hybrid + cross-encoder rerank | 0.86 | 0.94 | 0.90 | 1628 ms |
 
 <!-- ablation:end -->
