@@ -49,7 +49,9 @@ class _DriverLaps:
         valid = df["lap_time_s"].where(~df["deleted"])
         df = df.assign(
             best_lap_s=valid.cummin(),
-            pit_count=df["pit_in"].astype(int).cumsum(),
+            # Stops completed before this lap ends: a car that dives in at the end of lap
+            # k is counted from lap k+1, when its new tyres are known.
+            pit_count=df["pit_in"].astype(int).cumsum() - df["pit_in"].astype(int),
         )
         self.df = df
         self.laps = df.index.to_numpy()

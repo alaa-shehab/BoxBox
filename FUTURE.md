@@ -14,3 +14,7 @@ Ideas that are out of scope for v1. Order and v2 scope are set in PLAN.md.
 - Alembic migrations once the schema grows beyond four tables.
 - A semantic cache for repeated chat questions.
 - A local small LLM (llama.cpp) as a last-resort fallback when free API quotas run out.
+
+## Known limitations to revisit
+- Tyre-cliff detection is a lap-time heuristic (field-relative, sustained, traffic-filtered). It can't tell tyre wear apart from deliberate slow driving, such as the 2025 Monaco tactics. A degradation-model residual from the Phase 7 fit would be more robust.
+- Pre-race race-control messages are grouped into lap 1, because the replay format buckets messages by lap.

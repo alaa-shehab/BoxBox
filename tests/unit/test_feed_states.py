@@ -38,7 +38,7 @@ def test_overtake_and_retirement_lap3(fake_feed: ReplayFeed) -> None:
 
 def test_pit_stop_and_new_stint(fake_feed: ReplayFeed) -> None:
     lap4 = fake_feed.state(4).driver("AAA")
-    assert lap4.pitted_this_lap and lap4.pit_count == 1 and lap4.compound == "MEDIUM"
+    assert lap4.pitted_this_lap and lap4.pit_count == 0 and lap4.compound == "MEDIUM"
     lap5 = fake_feed.state(5).driver("AAA")
     assert not lap5.pitted_this_lap
     assert (lap5.compound, lap5.tyre_age, lap5.stint, lap5.pit_count) == ("HARD", 1, 2, 1)
