@@ -1,7 +1,6 @@
 """Domain models shared across core/.
 
-Race-state models (RaceState, DriverState, Event, ...) are added with the RaceFeed in
-Phase 2. This module currently holds the persisted fan-side entities.
+Fan-side entities (profiles, predictions, scores) and the race state every RaceFeed emits.
 """
 
 from __future__ import annotations
@@ -113,3 +112,127 @@ class Score(BaseModel):
     points: int
     breakdown: dict[str, int] = Field(default_factory=dict)
     scored_at: datetime = Field(default_factory=utcnow)
+
+
+# --------------------------------------------------------------------------------------
+# Race state: emitted by every RaceFeed, one tick per lap. Lap 0 is the starting grid.
+# --------------------------------------------------------------------------------------
+
+Compound = Literal["SOFT", "MEDIUM", "HARD", "INTERMEDIATE", "WET", "UNKNOWN"]
+TrackFlag = Literal["GREEN", "YELLOW", "VSC", "SC", "RED"]
+DriverStatus = Literal["running", "finished", "dnf", "dns"]
+
+COMPOUNDS: tuple[Compound, ...] = ("SOFT", "MEDIUM", "HARD", "INTERMEDIATE", "WET", "UNKNOWN")
+FLAG_SEVERITY: dict[TrackFlag, int] = {"GREEN": 0, "YELLOW": 1, "VSC": 2, "SC": 3, "RED": 4}
+
+
+class DriverInfo(BaseModel):
+    model_config = ConfigDict(frozen=True)
+
+    code: str
+    number: str
+    name: str
+    team: str
+    team_colour: str = "888888"
+
+
+class ClassifiedResult(BaseModel):
+    model_config = ConfigDict(frozen=True)
+
+    code: str
+    position: int | None  # final order including non-classified cars
+    classified: str  # "1".."20", or "R" retired, "D" disqualified, "W" withdrawn/DNS, ...
+    status: str  # FastF1 status text, e.g. "Finished", "+1 Lap", "Retired"
+    grid: int | None
+    points: float
+    laps: int
+
+
+class RaceMeta(BaseModel):
+    model_config = ConfigDict(frozen=True)
+
+    race_id: str  # "{season}_{round:02d}"
+    season: int
+    round: int
+    event_name: str
+    country: str
+    circuit_key: str  # stable slug of the circuit location, e.g. "sao_paulo"
+    total_laps: int  # laps actually completed by the winner
+    scheduled_laps: int | None = None
+    is_wet: bool = False
+    drivers: dict[str, DriverInfo]
+    grid: dict[str, int]  # code -> grid slot (pit-lane starts placed at the back)
+    results: list[ClassifiedResult]
+    source: str = "FastF1 (F1 live timing archive)"
+
+
+class DriverState(BaseModel):
+    model_config = ConfigDict(frozen=True)
+
+    code: str
+    team: str
+    position: int
+    status: DriverStatus = "running"
+    laps_completed: int = 0
+    gap_to_leader_s: float | None = None
+    interval_s: float | None = None
+    laps_down: int = 0
+    last_lap_s: float | None = None
+    best_lap_s: float | None = None
+    compound: Compound = "UNKNOWN"
+    tyre_age: int = 0
+    stint: int = 1
+    pit_count: int = 0
+    pitted_this_lap: bool = False
+
+
+class RaceControlMsg(BaseModel):
+    model_config = ConfigDict(frozen=True)
+
+    lap: int
+    category: str
+    message: str
+    flag: str | None = None
+    drivers: tuple[str, ...] = ()
+
+
+class Weather(BaseModel):
+    model_config = ConfigDict(frozen=True)
+
+    air_temp_c: float | None = None
+    track_temp_c: float | None = None
+    humidity_pct: float | None = None
+    rainfall: bool = False
+
+
+class FastestLap(BaseModel):
+    model_config = ConfigDict(frozen=True)
+
+    code: str
+    lap: int
+    time_s: float
+
+
+class RaceState(BaseModel):
+    model_config = ConfigDict(frozen=True)
+
+    race_id: str
+    lap: int
+    total_laps: int
+    flag: TrackFlag = "GREEN"  # flag shown when the leader completed this lap
+    flags_this_lap: tuple[TrackFlag, ...] = ()  # every flag shown during the lap, in order
+    drivers: tuple[DriverState, ...]
+    weather: Weather = Weather()
+    new_messages: tuple[RaceControlMsg, ...] = ()
+    fastest_lap: FastestLap | None = None
+    session_time_s: float | None = None  # leader's lap-end time, seconds from session start
+
+    @property
+    def is_final(self) -> bool:
+        return self.lap >= self.total_laps
+
+    def driver(self, code: str) -> DriverState | None:
+        return next((d for d in self.drivers if d.code == code), None)
+
+    def order(self) -> list[str]:
+        return [d.code for d in sorted(self.drivers, key=lambda d: d.position)]

@@ -10,6 +10,10 @@ readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
 dependencies = [
+  "numpy>=1.26",
+  "pandas>=2.2,<3",
+  "pyarrow>=17",
+  "fastf1>=3.8,<4",
   "pydantic>=2.9,<3",
   "pydantic-settings>=2.6,<3",
   "sqlalchemy>=2.0.36,<3",

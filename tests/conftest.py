@@ -43,3 +43,18 @@ def _isolated_settings(monkeypatch: pytest.MonkeyPatch) -> Iterator[None]:
     get_settings.cache_clear()
     yield
     get_settings.cache_clear()
+
+
+@pytest.fixture
+def fake_replay():  # type: ignore[no-untyped-def]
+    from core.feed.builder import from_session
+    from tests.fixtures.fake_session import FakeSession
+
+    return from_session(FakeSession(), season=2099, round_number=1)
+
+
+@pytest.fixture
+def fake_feed(fake_replay):  # type: ignore[no-untyped-def]
+    from core.feed.replay import ReplayFeed
+
+    return ReplayFeed(fake_replay)

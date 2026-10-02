@@ -1,0 +1,358 @@
+{
+ "race_id": "2025_08",
+ "season": 2025,
+ "round": 8,
+ "event_name": "Monaco Grand Prix",
+ "country": "Monaco",
+ "circuit_key": "monaco",
+ "total_laps": 78,
+ "scheduled_laps": 78,
+ "is_wet": false,
+ "drivers": {
+  "NOR": {
+   "code": "NOR",
+   "number": "4",
+   "name": "Lando Norris",
+   "team": "McLaren",
+   "team_colour": "F47600"
+  },
+  "LEC": {
+   "code": "LEC",
+   "number": "16",
+   "name": "Charles Leclerc",
+   "team": "Ferrari",
+   "team_colour": "ED1131"
+  },
+  "PIA": {
+   "code": "PIA",
+   "number": "81",
+   "name": "Oscar Piastri",
+   "team": "McLaren",
+   "team_colour": "F47600"
+  },
+  "VER": {
+   "code": "VER",
+   "number": "1",
+   "name": "Max Verstappen",
+   "team": "Red Bull Racing",
+   "team_colour": "4781D7"
+  },
+  "HAM": {
+   "code": "HAM",
+   "number": "44",
+   "name": "Lewis Hamilton",
+   "team": "Ferrari",
+   "team_colour": "ED1131"
+  },
+  "HAD": {
+   "code": "HAD",
+   "number": "6",
+   "name": "Isack Hadjar",
+   "team": "Racing Bulls",
+   "team_colour": "6C98FF"
+  },
+  "OCO": {
+   "code": "OCO",
+   "number": "31",
+   "name": "Esteban Ocon",
+   "team": "Haas F1 Team",
+   "team_colour": "9C9FA2"
+  },
+  "LAW": {
+   "code": "LAW",
+   "number": "30",
+   "name": "Liam Lawson",
+   "team": "Racing Bulls",
+   "team_colour": "6C98FF"
+  },
+  "ALB": {
+   "code": "ALB",
+   "number": "23",
+   "name": "Alexander Albon",
+   "team": "Williams",
+   "team_colour": "1868DB"
+  },
+  "SAI": {
+   "code": "SAI",
+   "number": "55",
+   "name": "Carlos Sainz",
+   "team": "Williams",
+   "team_colour": "1868DB"
+  },
+  "RUS": {
+   "code": "RUS",
+   "number": "63",
+   "name": "George Russell",
+   "team": "Mercedes",
+   "team_colour": "00D7B6"
+  },
+  "BEA": {
+   "code": "BEA",
+   "number": "87",
+   "name": "Oliver Bearman",
+   "team": "Haas F1 Team",
+   "team_colour": "9C9FA2"
+  },
+  "COL": {
+   "code": "COL",
+   "number": "43",
+   "name": "Franco Colapinto",
+   "team": "Alpine",
+   "team_colour": "00A1E8"
+  },
+  "BOR": {
+   "code": "BOR",
+   "number": "5",
+   "name": "Gabriel Bortoleto",
+   "team": "Kick Sauber",
+   "team_colour": "01C00E"
+  },
+  "STR": {
+   "code": "STR",
+   "number": "18",
+   "name": "Lance Stroll",
+   "team": "Aston Martin",
+   "team_colour": "229971"
+  },
+  "HUL": {
+   "code": "HUL",
+   "number": "27",
+   "name": "Nico Hulkenberg",
+   "team": "Kick Sauber",
+   "team_colour": "01C00E"
+  },
+  "TSU": {
+   "code": "TSU",
+   "number": "22",
+   "name": "Yuki Tsunoda",
+   "team": "Red Bull Racing",
+   "team_colour": "4781D7"
+  },
+  "ANT": {
+   "code": "ANT",
+   "number": "12",
+   "name": "Kimi Antonelli",
+   "team": "Mercedes",
+   "team_colour": "00D7B6"
+  },
+  "ALO": {
+   "code": "ALO",
+   "number": "14",
+   "name": "Fernando Alonso",
+   "team": "Aston Martin",
+   "team_colour": "229971"
+  },
+  "GAS": {
+   "code": "GAS",
+   "number": "10",
+   "name": "Pierre Gasly",
+   "team": "Alpine",
+   "team_colour": "00A1E8"
+  }
+ },
+ "grid": {
+  "NOR": 1,
+  "LEC": 2,
+  "PIA": 3,
+  "VER": 4,
+  "HAD": 5,
+  "ALO": 6,
+  "HAM": 7,
+  "OCO": 8,
+  "LAW": 9,
+  "ALB": 10,
+  "SAI": 11,
+  "TSU": 12,
+  "HUL": 13,
+  "RUS": 14,
+  "ANT": 15,
+  "BOR": 16,
+  "GAS": 17,
+  "COL": 18,
+  "STR": 19,
+  "BEA": 20
+ },
+ "results": [
+  {
+   "code": "NOR",
+   "position": 1,
+   "classified": "1",
+   "status": "Finished",
+   "grid": 1,
+   "points": 25.0,
+   "laps": 78
+  },
+  {
+   "code": "LEC",
+   "position": 2,
+   "classified": "2",
+   "status": "Finished",
+   "grid": 2,
+   "points": 18.0,
+   "laps": 78
+  },
+  {
+   "code": "PIA",
+   "position": 3,
+   "classified": "3",
+   "status": "Finished",
+   "grid": 3,
+   "points": 15.0,
+   "laps": 78
+  },
+  {
+   "code": "VER",
+   "position": 4,
+   "classified": "4",
+   "status": "Finished",
+   "grid": 4,
+   "points": 12.0,
+   "laps": 78
+  },
+  {
+   "code": "HAM",
+   "position": 5,
+   "classified": "5",
+   "status": "Finished",
+   "grid": 7,
+   "points": 10.0,
+   "laps": 78
+  },
+  {
+   "code": "HAD",
+   "position": 6,
+   "classified": "6",
+   "status": "Lapped",
+   "grid": 5,
+   "points": 8.0,
+   "laps": 77
+  },
+  {
+   "code": "OCO",
+   "position": 7,
+   "classified": "7",
+   "status": "Lapped",
+   "grid": 8,
+   "points": 6.0,
+   "laps": 77
+  },
+  {
+   "code": "LAW",
+   "position": 8,
+   "classified": "8",
+   "status": "Lapped",
+   "grid": 9,
+   "points": 4.0,
+   "laps": 77
+  },
+  {
+   "code": "ALB",
+   "position": 9,
+   "classified": "9",
+   "status": "Lapped",
+   "grid": 10,
+   "points": 2.0,
+   "laps": 76
+  },
+  {
+   "code": "SAI",
+   "position": 10,
+   "classified": "10",
+   "status": "Lapped",
+   "grid": 11,
+   "points": 1.0,
+   "laps": 76
+  },
+  {
+   "code": "RUS",
+   "position": 11,
+   "classified": "11",
+   "status": "Lapped",
+   "grid": 14,
+   "points": 0.0,
+   "laps": 76
+  },
+  {
+   "code": "BEA",
+   "position": 12,
+   "classified": "12",
+   "status": "Lapped",
+   "grid": 20,
+   "points": 0.0,
+   "laps": 76
+  },
+  {
+   "code": "COL",
+   "position": 13,
+   "classified": "13",
+   "status": "Lapped",
+   "grid": 18,
+   "points": 0.0,
+   "laps": 76
+  },
+  {
+   "code": "BOR",
+   "position": 14,
+   "classified": "14",
+   "status": "Lapped",
+   "grid": 16,
+   "points": 0.0,
+   "laps": 76
+  },
+  {
+   "code": "STR",
+   "position": 15,
+   "classified": "15",
+   "status": "Lapped",
+   "grid": 19,
+   "points": 0.0,
+   "laps": 76
+  },
+  {
+   "code": "HUL",
+   "position": 16,
+   "classified": "16",
+   "status": "Lapped",
+   "grid": 13,
+   "points": 0.0,
+   "laps": 76
+  },
+  {
+   "code": "TSU",
+   "position": 17,
+   "classified": "17",
+   "status": "Lapped",
+   "grid": 12,
+   "points": 0.0,
+   "laps": 76
+  },
+  {
+   "code": "ANT",
+   "position": 18,
+   "classified": "18",
+   "status": "Lapped",
+   "grid": 15,
+   "points": 0.0,
+   "laps": 75
+  },
+  {
+   "code": "ALO",
+   "position": 19,
+   "classified": "R",
+   "status": "Retired",
+   "grid": 6,
+   "points": 0.0,
+   "laps": 36
+  },
+  {
+   "code": "GAS",
+   "position": 20,
+   "classified": "R",
+   "status": "Retired",
+   "grid": 17,
+   "points": 0.0,
+   "laps": 7
+  }
+ ],
+ "source": "FastF1 (F1 live timing archive)"
+}
