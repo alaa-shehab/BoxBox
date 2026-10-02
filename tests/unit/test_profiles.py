@@ -168,3 +168,20 @@ def test_levels_differ_in_the_right_direction() -> None:
 def test_unknown_level() -> None:
     with pytest.raises(ValueError):
         level_style("god")  # type: ignore[arg-type]
+
+
+@pytest.mark.parametrize(
+    ("name", "season", "key"),
+    [
+        ("Toro Rosso", 2008, "racing_bulls"),
+        ("Alfa Romeo", 2021, "sauber"),
+        ("Alfa Romeo", 1950, "alfaromeo@1950"),  # the 1950s works team is not Sauber
+        ("Renault", 1982, "renault@1982"),  # nor is the 1977-85 Renault team today's Alpine
+        ("Renault", 2018, "alpine"),
+        ("Mercedes", 1955, "mercedes@1955"),
+        ("Mercedes", 2014, "mercedes"),
+        ("Ferrari", 1952, "ferrari"),
+    ],
+)
+def test_team_key_respects_eras(name: str, season: int, key: str) -> None:
+    assert team_key(name, season) == key

@@ -1,0 +1,1673 @@
+[
+ {
+  "id": "2024_16:circuit_wins:LEC",
+  "race_id": "2024_16",
+  "kind": "circuit_wins",
+  "subject_type": "driver",
+  "subject": "LEC",
+  "text": "Charles Leclerc has won 1 time at Autodromo Nazionale di Monza (2019) in 6 starts there.",
+  "values": {
+   "wins": 1,
+   "starts": 6,
+   "years": "2019"
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 1.0
+ },
+ {
+  "id": "2024_16:circuit_no_podium:PIA",
+  "race_id": "2024_16",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "PIA",
+  "text": "Oscar Piastri has never finished on the podium at Autodromo Nazionale di Monza in 1 starts; best finish P12.",
+  "values": {
+   "starts": 1,
+   "best": 12
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_16:circuit_podiums:NOR",
+  "race_id": "2024_16",
+  "kind": "circuit_podiums",
+  "subject_type": "driver",
+  "subject": "NOR",
+  "text": "Lando Norris has 1 podium finish at Autodromo Nazionale di Monza in 5 starts, but has never won there; best finish P2.",
+  "values": {
+   "podiums": 1,
+   "starts": 5,
+   "best": 2
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.95
+ },
+ {
+  "id": "2024_16:circuit_podiums:SAI",
+  "race_id": "2024_16",
+  "kind": "circuit_podiums",
+  "subject_type": "driver",
+  "subject": "SAI",
+  "text": "Carlos Sainz has 2 podium finishes at Autodromo Nazionale di Monza in 9 starts, but has never won there; best finish P2.",
+  "values": {
+   "podiums": 2,
+   "starts": 9,
+   "best": 2
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.95
+ },
+ {
+  "id": "2024_16:circuit_wins:HAM",
+  "race_id": "2024_16",
+  "kind": "circuit_wins",
+  "subject_type": "driver",
+  "subject": "HAM",
+  "text": "Lewis Hamilton has won 5 times at Autodromo Nazionale di Monza (2012, 2014, 2015, 2017, 2018) in 17 starts there.",
+  "values": {
+   "wins": 5,
+   "starts": 17,
+   "years": "2012, 2014, 2015, 2017, 2018"
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 1.0
+ },
+ {
+  "id": "2024_16:circuit_wins:VER",
+  "race_id": "2024_16",
+  "kind": "circuit_wins",
+  "subject_type": "driver",
+  "subject": "VER",
+  "text": "Max Verstappen has won 2 times at Autodromo Nazionale di Monza (2022, 2023) in 9 starts there.",
+  "values": {
+   "wins": 2,
+   "starts": 9,
+   "years": "2022, 2023"
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 1.0
+ },
+ {
+  "id": "2024_16:circuit_podiums:RUS",
+  "race_id": "2024_16",
+  "kind": "circuit_podiums",
+  "subject_type": "driver",
+  "subject": "RUS",
+  "text": "George Russell has 1 podium finish at Autodromo Nazionale di Monza in 5 starts, but has never won there; best finish P3.",
+  "values": {
+   "podiums": 1,
+   "starts": 5,
+   "best": 3
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.95
+ },
+ {
+  "id": "2024_16:circuit_podiums:PER",
+  "race_id": "2024_16",
+  "kind": "circuit_podiums",
+  "subject_type": "driver",
+  "subject": "PER",
+  "text": "Sergio Pérez has 2 podium finishes at Autodromo Nazionale di Monza in 13 starts, but has never won there; best finish P2.",
+  "values": {
+   "podiums": 2,
+   "starts": 13,
+   "best": 2
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.95
+ },
+ {
+  "id": "2024_16:circuit_no_podium:ALB",
+  "race_id": "2024_16",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "ALB",
+  "text": "Alexander Albon has never finished on the podium at Autodromo Nazionale di Monza in 3 starts; best finish P6.",
+  "values": {
+   "starts": 3,
+   "best": 6
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_16:circuit_no_podium:MAG",
+  "race_id": "2024_16",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "MAG",
+  "text": "Kevin Magnussen has never finished on the podium at Autodromo Nazionale di Monza in 8 starts; best finish P10.",
+  "values": {
+   "starts": 8,
+   "best": 10
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_16:circuit_wins:ALO",
+  "race_id": "2024_16",
+  "kind": "circuit_wins",
+  "subject_type": "driver",
+  "subject": "ALO",
+  "text": "Fernando Alonso has won 2 times at Autodromo Nazionale di Monza (2007, 2010) in 20 starts there.",
+  "values": {
+   "wins": 2,
+   "starts": 20,
+   "years": "2007, 2010"
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 1.0
+ },
+ {
+  "id": "2024_16:circuit_debut:COL",
+  "race_id": "2024_16",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "COL",
+  "text": "This is Franco Colapinto's first World Championship race at Autodromo Nazionale di Monza.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_16:circuit_wins:RIC",
+  "race_id": "2024_16",
+  "kind": "circuit_wins",
+  "subject_type": "driver",
+  "subject": "RIC",
+  "text": "Daniel Ricciardo has won 1 time at Autodromo Nazionale di Monza (2021) in 12 starts there.",
+  "values": {
+   "wins": 1,
+   "starts": 12,
+   "years": "2021"
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 1.0
+ },
+ {
+  "id": "2024_16:circuit_no_podium:OCO",
+  "race_id": "2024_16",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "OCO",
+  "text": "Esteban Ocon has never finished on the podium at Autodromo Nazionale di Monza in 7 starts; best finish P6.",
+  "values": {
+   "starts": 7,
+   "best": 6
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_16:circuit_wins:GAS",
+  "race_id": "2024_16",
+  "kind": "circuit_wins",
+  "subject_type": "driver",
+  "subject": "GAS",
+  "text": "Pierre Gasly has won 1 time at Autodromo Nazionale di Monza (2020) in 6 starts there.",
+  "values": {
+   "wins": 1,
+   "starts": 6,
+   "years": "2020"
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 1.0
+ },
+ {
+  "id": "2024_16:circuit_podiums:BOT",
+  "race_id": "2024_16",
+  "kind": "circuit_podiums",
+  "subject_type": "driver",
+  "subject": "BOT",
+  "text": "Valtteri Bottas has 4 podium finishes at Autodromo Nazionale di Monza in 11 starts, but has never won there; best finish P2.",
+  "values": {
+   "podiums": 4,
+   "starts": 11,
+   "best": 2
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.95
+ },
+ {
+  "id": "2024_16:circuit_no_podium:HUL",
+  "race_id": "2024_16",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "HUL",
+  "text": "Nico Hülkenberg has never finished on the podium at Autodromo Nazionale di Monza in 10 starts; best finish P5.",
+  "values": {
+   "starts": 10,
+   "best": 5
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_16:circuit_no_podium:ZHO",
+  "race_id": "2024_16",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "ZHO",
+  "text": "Guanyu Zhou has never finished on the podium at Autodromo Nazionale di Monza in 2 starts; best finish P10.",
+  "values": {
+   "starts": 2,
+   "best": 10
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_16:circuit_podiums:STR",
+  "race_id": "2024_16",
+  "kind": "circuit_podiums",
+  "subject_type": "driver",
+  "subject": "STR",
+  "text": "Lance Stroll has 1 podium finish at Autodromo Nazionale di Monza in 7 starts, but has never won there; best finish P3.",
+  "values": {
+   "podiums": 1,
+   "starts": 7,
+   "best": 3
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.95
+ },
+ {
+  "id": "2024_16:circuit_no_podium:TSU",
+  "race_id": "2024_16",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "TSU",
+  "text": "Yuki Tsunoda has never finished on the podium at Autodromo Nazionale di Monza in 3 starts; best finish P14.",
+  "values": {
+   "starts": 3,
+   "best": 14
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_16:team_circuit_wins:ferrari",
+  "race_id": "2024_16",
+  "kind": "team_circuit_wins",
+  "subject_type": "team",
+  "subject": "ferrari",
+  "text": "Ferrari has won 19 times at Autodromo Nazionale di Monza, most recently in 2019.",
+  "values": {
+   "wins": 19,
+   "last_win": 2019
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.85
+ },
+ {
+  "id": "2024_16:team_circuit_wins:mclaren",
+  "race_id": "2024_16",
+  "kind": "team_circuit_wins",
+  "subject_type": "team",
+  "subject": "mclaren",
+  "text": "McLaren has won 10 times at Autodromo Nazionale di Monza, most recently in 2021.",
+  "values": {
+   "wins": 10,
+   "last_win": 2021
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.85
+ },
+ {
+  "id": "2024_16:team_circuit_wins:mercedes",
+  "race_id": "2024_16",
+  "kind": "team_circuit_wins",
+  "subject_type": "team",
+  "subject": "mercedes",
+  "text": "Mercedes has won 5 times at Autodromo Nazionale di Monza, most recently in 2018.",
+  "values": {
+   "wins": 5,
+   "last_win": 2018
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.85
+ },
+ {
+  "id": "2024_16:team_circuit_wins:racing_bulls",
+  "race_id": "2024_16",
+  "kind": "team_circuit_wins",
+  "subject_type": "team",
+  "subject": "racing_bulls",
+  "text": "Racing Bulls has won 2 times at Autodromo Nazionale di Monza (including wins as AlphaTauri, Toro Rosso), most recently in 2020.",
+  "values": {
+   "wins": 2,
+   "last_win": 2020
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.85
+ },
+ {
+  "id": "2024_16:team_circuit_wins:red_bull",
+  "race_id": "2024_16",
+  "kind": "team_circuit_wins",
+  "subject_type": "team",
+  "subject": "red_bull",
+  "text": "Red Bull Racing has won 4 times at Autodromo Nazionale di Monza, most recently in 2023.",
+  "values": {
+   "wins": 4,
+   "last_win": 2023
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.85
+ },
+ {
+  "id": "2024_16:team_circuit_wins:williams",
+  "race_id": "2024_16",
+  "kind": "team_circuit_wins",
+  "subject_type": "team",
+  "subject": "williams",
+  "text": "Williams has won 6 times at Autodromo Nazionale di Monza, most recently in 2001.",
+  "values": {
+   "wins": 6,
+   "last_win": 2001
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.85
+ },
+ {
+  "id": "2024_16:circuit_first_race:monza",
+  "race_id": "2024_16",
+  "kind": "circuit_first_race",
+  "subject_type": "circuit",
+  "subject": "monza",
+  "text": "Autodromo Nazionale di Monza first hosted a World Championship race in 1950; this is its 74th championship race.",
+  "values": {
+   "first_year": 1950,
+   "races": 73
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autodromo Nazionale di Monza",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monza/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:teammate_h2h:LEC",
+  "race_id": "2024_16",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "LEC",
+  "text": "Charles Leclerc has finished ahead of teammate Carlos Sainz in 8 of 13 races this season where both were classified.",
+  "values": {
+   "ahead": 8,
+   "races": 13
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_16:teammate_h2h:SAI",
+  "race_id": "2024_16",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "SAI",
+  "text": "Carlos Sainz has finished ahead of teammate Charles Leclerc in 5 of 13 races this season where both were classified.",
+  "values": {
+   "ahead": 5,
+   "races": 13
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_16:teammate_h2h:PIA",
+  "race_id": "2024_16",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "PIA",
+  "text": "Oscar Piastri has finished ahead of teammate Lando Norris in 5 of 15 races this season where both were classified.",
+  "values": {
+   "ahead": 5,
+   "races": 15
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_16:teammate_h2h:NOR",
+  "race_id": "2024_16",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "NOR",
+  "text": "Lando Norris has finished ahead of teammate Oscar Piastri in 10 of 15 races this season where both were classified.",
+  "values": {
+   "ahead": 10,
+   "races": 15
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_16:teammate_h2h:HAM",
+  "race_id": "2024_16",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "HAM",
+  "text": "Lewis Hamilton has finished ahead of teammate George Russell in 5 of 13 races this season where both were classified.",
+  "values": {
+   "ahead": 5,
+   "races": 13
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_16:teammate_h2h:RUS",
+  "race_id": "2024_16",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "RUS",
+  "text": "George Russell has finished ahead of teammate Lewis Hamilton in 8 of 13 races this season where both were classified.",
+  "values": {
+   "ahead": 8,
+   "races": 13
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_16:teammate_h2h:VER",
+  "race_id": "2024_16",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "VER",
+  "text": "Max Verstappen has finished ahead of teammate Sergio Pérez in 12 of 12 races this season where both were classified.",
+  "values": {
+   "ahead": 12,
+   "races": 12
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_16:teammate_h2h:PER",
+  "race_id": "2024_16",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "PER",
+  "text": "Sergio Pérez has finished ahead of teammate Max Verstappen in 0 of 12 races this season where both were classified.",
+  "values": {
+   "ahead": 0,
+   "races": 12
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_16:teammate_h2h:MAG",
+  "race_id": "2024_16",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "MAG",
+  "text": "Kevin Magnussen has finished ahead of teammate Nico Hülkenberg in 2 of 14 races this season where both were classified.",
+  "values": {
+   "ahead": 2,
+   "races": 14
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_16:teammate_h2h:HUL",
+  "race_id": "2024_16",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "HUL",
+  "text": "Nico Hülkenberg has finished ahead of teammate Kevin Magnussen in 12 of 14 races this season where both were classified.",
+  "values": {
+   "ahead": 12,
+   "races": 14
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_16:teammate_h2h:ALO",
+  "race_id": "2024_16",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "ALO",
+  "text": "Fernando Alonso has finished ahead of teammate Lance Stroll in 9 of 14 races this season where both were classified.",
+  "values": {
+   "ahead": 9,
+   "races": 14
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_16:teammate_h2h:STR",
+  "race_id": "2024_16",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "STR",
+  "text": "Lance Stroll has finished ahead of teammate Fernando Alonso in 5 of 14 races this season where both were classified.",
+  "values": {
+   "ahead": 5,
+   "races": 14
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_16:teammate_h2h:RIC",
+  "race_id": "2024_16",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "RIC",
+  "text": "Daniel Ricciardo has finished ahead of teammate Yuki Tsunoda in 6 of 13 races this season where both were classified.",
+  "values": {
+   "ahead": 6,
+   "races": 13
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_16:teammate_h2h:TSU",
+  "race_id": "2024_16",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "TSU",
+  "text": "Yuki Tsunoda has finished ahead of teammate Daniel Ricciardo in 7 of 13 races this season where both were classified.",
+  "values": {
+   "ahead": 7,
+   "races": 13
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_16:teammate_h2h:OCO",
+  "race_id": "2024_16",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "OCO",
+  "text": "Esteban Ocon has finished ahead of teammate Pierre Gasly in 6 of 11 races this season where both were classified.",
+  "values": {
+   "ahead": 6,
+   "races": 11
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_16:teammate_h2h:GAS",
+  "race_id": "2024_16",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "GAS",
+  "text": "Pierre Gasly has finished ahead of teammate Esteban Ocon in 5 of 11 races this season where both were classified.",
+  "values": {
+   "ahead": 5,
+   "races": 11
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_16:teammate_h2h:BOT",
+  "race_id": "2024_16",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "BOT",
+  "text": "Valtteri Bottas has finished ahead of teammate Guanyu Zhou in 8 of 12 races this season where both were classified.",
+  "values": {
+   "ahead": 8,
+   "races": 12
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_16:teammate_h2h:ZHO",
+  "race_id": "2024_16",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "ZHO",
+  "text": "Guanyu Zhou has finished ahead of teammate Valtteri Bottas in 4 of 12 races this season where both were classified.",
+  "values": {
+   "ahead": 4,
+   "races": 12
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_16:championship_position:LEC",
+  "race_id": "2024_16",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "LEC",
+  "text": "Charles Leclerc arrives 3rd in the 2024 championship on 192 points.",
+  "values": {
+   "position": 3,
+   "points": 192.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 15",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/15/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_16:championship_position:PIA",
+  "race_id": "2024_16",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "PIA",
+  "text": "Oscar Piastri arrives 4th in the 2024 championship on 179 points.",
+  "values": {
+   "position": 4,
+   "points": 179.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 15",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/15/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_16:championship_position:NOR",
+  "race_id": "2024_16",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "NOR",
+  "text": "Lando Norris arrives 2nd in the 2024 championship on 225 points.",
+  "values": {
+   "position": 2,
+   "points": 225.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 15",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/15/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_16:championship_position:SAI",
+  "race_id": "2024_16",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "SAI",
+  "text": "Carlos Sainz arrives 5th in the 2024 championship on 172 points.",
+  "values": {
+   "position": 5,
+   "points": 172.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 15",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/15/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_16:championship_position:HAM",
+  "race_id": "2024_16",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "HAM",
+  "text": "Lewis Hamilton arrives 6th in the 2024 championship on 154 points.",
+  "values": {
+   "position": 6,
+   "points": 154.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 15",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/15/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_16:championship_position:VER",
+  "race_id": "2024_16",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "VER",
+  "text": "Max Verstappen arrives 1st in the 2024 championship on 295 points.",
+  "values": {
+   "position": 1,
+   "points": 295.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 15",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/15/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_16:championship_position:RUS",
+  "race_id": "2024_16",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "RUS",
+  "text": "George Russell arrives 8th in the 2024 championship on 122 points.",
+  "values": {
+   "position": 8,
+   "points": 122.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 15",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/15/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_16:championship_position:PER",
+  "race_id": "2024_16",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "PER",
+  "text": "Sergio Pérez arrives 7th in the 2024 championship on 139 points.",
+  "values": {
+   "position": 7,
+   "points": 139.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 15",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/15/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_16:championship_position:ALB",
+  "race_id": "2024_16",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "ALB",
+  "text": "Alexander Albon arrives 18th in the 2024 championship on 4 points.",
+  "values": {
+   "position": 18,
+   "points": 4.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 15",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/15/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_16:championship_position:MAG",
+  "race_id": "2024_16",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "MAG",
+  "text": "Kevin Magnussen arrives 16th in the 2024 championship on 5 points.",
+  "values": {
+   "position": 16,
+   "points": 5.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 15",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/15/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_16:championship_position:ALO",
+  "race_id": "2024_16",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "ALO",
+  "text": "Fernando Alonso arrives 9th in the 2024 championship on 50 points.",
+  "values": {
+   "position": 9,
+   "points": 50.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 15",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/15/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_16:championship_position:RIC",
+  "race_id": "2024_16",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "RIC",
+  "text": "Daniel Ricciardo arrives 13th in the 2024 championship on 12 points.",
+  "values": {
+   "position": 13,
+   "points": 12.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 15",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/15/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_16:championship_position:OCO",
+  "race_id": "2024_16",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "OCO",
+  "text": "Esteban Ocon arrives 17th in the 2024 championship on 5 points.",
+  "values": {
+   "position": 17,
+   "points": 5.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 15",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/15/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_16:championship_position:GAS",
+  "race_id": "2024_16",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "GAS",
+  "text": "Pierre Gasly arrives 14th in the 2024 championship on 8 points.",
+  "values": {
+   "position": 14,
+   "points": 8.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 15",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/15/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_16:championship_position:BOT",
+  "race_id": "2024_16",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "BOT",
+  "text": "Valtteri Bottas arrives 21st in the 2024 championship on 0 points.",
+  "values": {
+   "position": 21,
+   "points": 0.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 15",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/15/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_16:championship_position:HUL",
+  "race_id": "2024_16",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "HUL",
+  "text": "Nico Hülkenberg arrives 11th in the 2024 championship on 22 points.",
+  "values": {
+   "position": 11,
+   "points": 22.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 15",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/15/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_16:championship_position:ZHO",
+  "race_id": "2024_16",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "ZHO",
+  "text": "Guanyu Zhou arrives 19th in the 2024 championship on 0 points.",
+  "values": {
+   "position": 19,
+   "points": 0.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 15",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/15/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_16:championship_position:STR",
+  "race_id": "2024_16",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "STR",
+  "text": "Lance Stroll arrives 10th in the 2024 championship on 24 points.",
+  "values": {
+   "position": 10,
+   "points": 24.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 15",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/15/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_16:championship_position:TSU",
+  "race_id": "2024_16",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "TSU",
+  "text": "Yuki Tsunoda arrives 12th in the 2024 championship on 22 points.",
+  "values": {
+   "position": 12,
+   "points": 22.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 15",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/15/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_16:career_wins:LEC",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "LEC",
+  "text": "Charles Leclerc goes into this race with 6 career Grand Prix wins.",
+  "values": {
+   "wins": 6
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Charles Leclerc",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/leclerc/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:career_wins:PIA",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "PIA",
+  "text": "Oscar Piastri goes into this race with 1 career Grand Prix win.",
+  "values": {
+   "wins": 1
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Oscar Piastri",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/piastri/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:career_wins:NOR",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "NOR",
+  "text": "Lando Norris goes into this race with 2 career Grand Prix wins.",
+  "values": {
+   "wins": 2
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Lando Norris",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/norris/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:career_wins:SAI",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "SAI",
+  "text": "Carlos Sainz goes into this race with 3 career Grand Prix wins.",
+  "values": {
+   "wins": 3
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Carlos Sainz",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/sainz/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:career_wins:HAM",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "HAM",
+  "text": "Lewis Hamilton goes into this race with 105 career Grand Prix wins.",
+  "values": {
+   "wins": 105
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Lewis Hamilton",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/hamilton/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:career_wins:VER",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "VER",
+  "text": "Max Verstappen goes into this race with 61 career Grand Prix wins.",
+  "values": {
+   "wins": 61
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Max Verstappen",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/max_verstappen/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:career_wins:RUS",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "RUS",
+  "text": "George Russell goes into this race with 2 career Grand Prix wins.",
+  "values": {
+   "wins": 2
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of George Russell",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/russell/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:career_wins:PER",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "PER",
+  "text": "Sergio Pérez goes into this race with 6 career Grand Prix wins.",
+  "values": {
+   "wins": 6
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Sergio Pérez",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/perez/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:career_wins:ALB",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "ALB",
+  "text": "Alexander Albon is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Alexander Albon",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/albon/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:career_wins:MAG",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "MAG",
+  "text": "Kevin Magnussen is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Kevin Magnussen",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/kevin_magnussen/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:career_wins:ALO",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "ALO",
+  "text": "Fernando Alonso goes into this race with 32 career Grand Prix wins.",
+  "values": {
+   "wins": 32
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Fernando Alonso",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/alonso/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:career_wins:COL",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "COL",
+  "text": "Franco Colapinto is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Franco Colapinto",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/colapinto/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:career_wins:RIC",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "RIC",
+  "text": "Daniel Ricciardo goes into this race with 8 career Grand Prix wins.",
+  "values": {
+   "wins": 8
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Daniel Ricciardo",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/ricciardo/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:career_wins:OCO",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "OCO",
+  "text": "Esteban Ocon goes into this race with 1 career Grand Prix win.",
+  "values": {
+   "wins": 1
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Esteban Ocon",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/ocon/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:career_wins:GAS",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "GAS",
+  "text": "Pierre Gasly goes into this race with 1 career Grand Prix win.",
+  "values": {
+   "wins": 1
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Pierre Gasly",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/gasly/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:career_wins:BOT",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "BOT",
+  "text": "Valtteri Bottas goes into this race with 10 career Grand Prix wins.",
+  "values": {
+   "wins": 10
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Valtteri Bottas",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/bottas/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:career_wins:HUL",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "HUL",
+  "text": "Nico Hülkenberg is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Nico Hülkenberg",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/hulkenberg/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:career_wins:ZHO",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "ZHO",
+  "text": "Guanyu Zhou is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Guanyu Zhou",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/zhou/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:career_wins:STR",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "STR",
+  "text": "Lance Stroll is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Lance Stroll",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/stroll/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_16:career_wins:TSU",
+  "race_id": "2024_16",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "TSU",
+  "text": "Yuki Tsunoda is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Yuki Tsunoda",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/tsunoda/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ }
+]

@@ -1,0 +1,1723 @@
+[
+ {
+  "id": "2025_08:circuit_podiums:NOR",
+  "race_id": "2025_08",
+  "kind": "circuit_podiums",
+  "subject_type": "driver",
+  "subject": "NOR",
+  "text": "Lando Norris has 1 podium finish at Circuit de Monaco in 5 starts, but has never won there; best finish P3.",
+  "values": {
+   "podiums": 1,
+   "starts": 5,
+   "best": 3
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.95
+ },
+ {
+  "id": "2025_08:circuit_wins:LEC",
+  "race_id": "2025_08",
+  "kind": "circuit_wins",
+  "subject_type": "driver",
+  "subject": "LEC",
+  "text": "Charles Leclerc has won 1 time at Circuit de Monaco (2024) in 6 starts there.",
+  "values": {
+   "wins": 1,
+   "starts": 6,
+   "years": "2024"
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 1.0
+ },
+ {
+  "id": "2025_08:circuit_podiums:PIA",
+  "race_id": "2025_08",
+  "kind": "circuit_podiums",
+  "subject_type": "driver",
+  "subject": "PIA",
+  "text": "Oscar Piastri has 1 podium finish at Circuit de Monaco in 2 starts, but has never won there; best finish P2.",
+  "values": {
+   "podiums": 1,
+   "starts": 2,
+   "best": 2
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.95
+ },
+ {
+  "id": "2025_08:circuit_wins:VER",
+  "race_id": "2025_08",
+  "kind": "circuit_wins",
+  "subject_type": "driver",
+  "subject": "VER",
+  "text": "Max Verstappen has won 2 times at Circuit de Monaco (2021, 2023) in 9 starts there.",
+  "values": {
+   "wins": 2,
+   "starts": 9,
+   "years": "2021, 2023"
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 1.0
+ },
+ {
+  "id": "2025_08:circuit_wins:HAM",
+  "race_id": "2025_08",
+  "kind": "circuit_wins",
+  "subject_type": "driver",
+  "subject": "HAM",
+  "text": "Lewis Hamilton has won 3 times at Circuit de Monaco (2008, 2016, 2019) in 17 starts there.",
+  "values": {
+   "wins": 3,
+   "starts": 17,
+   "years": "2008, 2016, 2019"
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 1.0
+ },
+ {
+  "id": "2025_08:circuit_debut:HAD",
+  "race_id": "2025_08",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "HAD",
+  "text": "This is Isack Hadjar's first World Championship race at Circuit de Monaco.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2025_08:circuit_podiums:OCO",
+  "race_id": "2025_08",
+  "kind": "circuit_podiums",
+  "subject_type": "driver",
+  "subject": "OCO",
+  "text": "Esteban Ocon has 1 podium finish at Circuit de Monaco in 6 starts, but has never won there; best finish P3.",
+  "values": {
+   "podiums": 1,
+   "starts": 6,
+   "best": 3
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.95
+ },
+ {
+  "id": "2025_08:circuit_debut:LAW",
+  "race_id": "2025_08",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "LAW",
+  "text": "This is Liam Lawson's first World Championship race at Circuit de Monaco.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2025_08:circuit_no_podium:ALB",
+  "race_id": "2025_08",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "ALB",
+  "text": "Alexander Albon has never finished on the podium at Circuit de Monaco in 4 starts; best finish P8.",
+  "values": {
+   "starts": 4,
+   "best": 8
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2025_08:circuit_podiums:SAI",
+  "race_id": "2025_08",
+  "kind": "circuit_podiums",
+  "subject_type": "driver",
+  "subject": "SAI",
+  "text": "Carlos Sainz has 3 podium finishes at Circuit de Monaco in 9 starts, but has never won there; best finish P2.",
+  "values": {
+   "podiums": 3,
+   "starts": 9,
+   "best": 2
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.95
+ },
+ {
+  "id": "2025_08:circuit_no_podium:RUS",
+  "race_id": "2025_08",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "RUS",
+  "text": "George Russell has never finished on the podium at Circuit de Monaco in 5 starts; best finish P5.",
+  "values": {
+   "starts": 5,
+   "best": 5
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2025_08:circuit_debut:BEA",
+  "race_id": "2025_08",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "BEA",
+  "text": "This is Oliver Bearman's first World Championship race at Circuit de Monaco.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2025_08:circuit_debut:COL",
+  "race_id": "2025_08",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "COL",
+  "text": "This is Franco Colapinto's first World Championship race at Circuit de Monaco.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2025_08:circuit_debut:BOR",
+  "race_id": "2025_08",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "BOR",
+  "text": "This is Gabriel Bortoleto's first World Championship race at Circuit de Monaco.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2025_08:circuit_no_podium:STR",
+  "race_id": "2025_08",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "STR",
+  "text": "Lance Stroll has never finished on the podium at Circuit de Monaco in 7 starts; best finish P8.",
+  "values": {
+   "starts": 7,
+   "best": 8
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2025_08:circuit_no_podium:HUL",
+  "race_id": "2025_08",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "HUL",
+  "text": "Nico Hülkenberg has never finished on the podium at Circuit de Monaco in 11 starts; best finish P5.",
+  "values": {
+   "starts": 11,
+   "best": 5
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2025_08:circuit_no_podium:TSU",
+  "race_id": "2025_08",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "TSU",
+  "text": "Yuki Tsunoda has never finished on the podium at Circuit de Monaco in 4 starts; best finish P8.",
+  "values": {
+   "starts": 4,
+   "best": 8
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2025_08:circuit_debut:ANT",
+  "race_id": "2025_08",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "ANT",
+  "text": "This is Andrea Kimi Antonelli's first World Championship race at Circuit de Monaco.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2025_08:circuit_wins:ALO",
+  "race_id": "2025_08",
+  "kind": "circuit_wins",
+  "subject_type": "driver",
+  "subject": "ALO",
+  "text": "Fernando Alonso has won 2 times at Circuit de Monaco (2006, 2007) in 20 starts there.",
+  "values": {
+   "wins": 2,
+   "starts": 20,
+   "years": "2006, 2007"
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 1.0
+ },
+ {
+  "id": "2025_08:circuit_no_podium:GAS",
+  "race_id": "2025_08",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "GAS",
+  "text": "Pierre Gasly has never finished on the podium at Circuit de Monaco in 6 starts; best finish P5.",
+  "values": {
+   "starts": 6,
+   "best": 5
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2025_08:team_circuit_wins:ferrari",
+  "race_id": "2025_08",
+  "kind": "team_circuit_wins",
+  "subject_type": "team",
+  "subject": "ferrari",
+  "text": "Ferrari has won 10 times at Circuit de Monaco, most recently in 2024.",
+  "values": {
+   "wins": 10,
+   "last_win": 2024
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.85
+ },
+ {
+  "id": "2025_08:team_circuit_wins:mclaren",
+  "race_id": "2025_08",
+  "kind": "team_circuit_wins",
+  "subject_type": "team",
+  "subject": "mclaren",
+  "text": "McLaren has won 15 times at Circuit de Monaco, most recently in 2008.",
+  "values": {
+   "wins": 15,
+   "last_win": 2008
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.85
+ },
+ {
+  "id": "2025_08:team_circuit_wins:mercedes",
+  "race_id": "2025_08",
+  "kind": "team_circuit_wins",
+  "subject_type": "team",
+  "subject": "mercedes",
+  "text": "Mercedes has won 5 times at Circuit de Monaco, most recently in 2019.",
+  "values": {
+   "wins": 5,
+   "last_win": 2019
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.85
+ },
+ {
+  "id": "2025_08:team_circuit_wins:red_bull",
+  "race_id": "2025_08",
+  "kind": "team_circuit_wins",
+  "subject_type": "team",
+  "subject": "red_bull",
+  "text": "Red Bull Racing has won 7 times at Circuit de Monaco, most recently in 2023.",
+  "values": {
+   "wins": 7,
+   "last_win": 2023
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.85
+ },
+ {
+  "id": "2025_08:team_circuit_wins:williams",
+  "race_id": "2025_08",
+  "kind": "team_circuit_wins",
+  "subject_type": "team",
+  "subject": "williams",
+  "text": "Williams has won 3 times at Circuit de Monaco, most recently in 2003.",
+  "values": {
+   "wins": 3,
+   "last_win": 2003
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.85
+ },
+ {
+  "id": "2025_08:circuit_first_race:monaco",
+  "race_id": "2025_08",
+  "kind": "circuit_first_race",
+  "subject_type": "circuit",
+  "subject": "monaco",
+  "text": "Circuit de Monaco first hosted a World Championship race in 1950; this is its 71st championship race.",
+  "values": {
+   "first_year": 1950,
+   "races": 70
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:circuit_most_wins:monaco",
+  "race_id": "2025_08",
+  "kind": "circuit_most_wins",
+  "subject_type": "circuit",
+  "subject": "monaco",
+  "text": "The most successful driver at Circuit de Monaco is Ayrton Senna with 6 wins.",
+  "values": {
+   "wins": 6
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Circuit de Monaco",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/monaco/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:teammate_h2h:NOR",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "NOR",
+  "text": "Lando Norris has finished ahead of teammate Oscar Piastri in 3 of 7 races this season where both were classified.",
+  "values": {
+   "ahead": 3,
+   "races": 7
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:teammate_h2h:PIA",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "PIA",
+  "text": "Oscar Piastri has finished ahead of teammate Lando Norris in 4 of 7 races this season where both were classified.",
+  "values": {
+   "ahead": 4,
+   "races": 7
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:teammate_h2h:LEC",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "LEC",
+  "text": "Charles Leclerc has finished ahead of teammate Lewis Hamilton in 5 of 6 races this season where both were classified.",
+  "values": {
+   "ahead": 5,
+   "races": 6
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:teammate_h2h:HAM",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "HAM",
+  "text": "Lewis Hamilton has finished ahead of teammate Charles Leclerc in 1 of 6 races this season where both were classified.",
+  "values": {
+   "ahead": 1,
+   "races": 6
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:teammate_h2h:VER",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "VER",
+  "text": "Max Verstappen has finished ahead of teammate Yuki Tsunoda in 6 of 6 races this season where both were classified.",
+  "values": {
+   "ahead": 6,
+   "races": 6
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:teammate_h2h:TSU",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "TSU",
+  "text": "Yuki Tsunoda has finished ahead of teammate Max Verstappen in 0 of 6 races this season where both were classified.",
+  "values": {
+   "ahead": 0,
+   "races": 6
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:teammate_h2h:HAD",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "HAD",
+  "text": "Isack Hadjar has finished ahead of teammate Liam Lawson in 5 of 5 races this season where both were classified.",
+  "values": {
+   "ahead": 5,
+   "races": 5
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:teammate_h2h:LAW",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "LAW",
+  "text": "Liam Lawson has finished ahead of teammate Isack Hadjar in 0 of 5 races this season where both were classified.",
+  "values": {
+   "ahead": 0,
+   "races": 5
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:teammate_h2h:OCO",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "OCO",
+  "text": "Esteban Ocon has finished ahead of teammate Oliver Bearman in 3 of 5 races this season where both were classified.",
+  "values": {
+   "ahead": 3,
+   "races": 5
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:teammate_h2h:BEA",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "BEA",
+  "text": "Oliver Bearman has finished ahead of teammate Esteban Ocon in 2 of 5 races this season where both were classified.",
+  "values": {
+   "ahead": 2,
+   "races": 5
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:teammate_h2h:ALB",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "ALB",
+  "text": "Alexander Albon has finished ahead of teammate Carlos Sainz in 4 of 5 races this season where both were classified.",
+  "values": {
+   "ahead": 4,
+   "races": 5
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:teammate_h2h:SAI",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "SAI",
+  "text": "Carlos Sainz has finished ahead of teammate Alexander Albon in 1 of 5 races this season where both were classified.",
+  "values": {
+   "ahead": 1,
+   "races": 5
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:teammate_h2h:RUS",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "RUS",
+  "text": "George Russell has finished ahead of teammate Andrea Kimi Antonelli in 6 of 6 races this season where both were classified.",
+  "values": {
+   "ahead": 6,
+   "races": 6
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:teammate_h2h:ANT",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "ANT",
+  "text": "Andrea Kimi Antonelli has finished ahead of teammate George Russell in 0 of 6 races this season where both were classified.",
+  "values": {
+   "ahead": 0,
+   "races": 6
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:teammate_h2h:COL",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "COL",
+  "text": "Franco Colapinto has finished ahead of teammate Pierre Gasly in 0 of 1 races this season where both were classified.",
+  "values": {
+   "ahead": 0,
+   "races": 1
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:teammate_h2h:GAS",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "GAS",
+  "text": "Pierre Gasly has finished ahead of teammate Franco Colapinto in 1 of 1 races this season where both were classified.",
+  "values": {
+   "ahead": 1,
+   "races": 1
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:teammate_h2h:BOR",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "BOR",
+  "text": "Gabriel Bortoleto has finished ahead of teammate Nico Hülkenberg in 1 of 4 races this season where both were classified.",
+  "values": {
+   "ahead": 1,
+   "races": 4
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:teammate_h2h:HUL",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "HUL",
+  "text": "Nico Hülkenberg has finished ahead of teammate Gabriel Bortoleto in 3 of 4 races this season where both were classified.",
+  "values": {
+   "ahead": 3,
+   "races": 4
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:teammate_h2h:STR",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "STR",
+  "text": "Lance Stroll has finished ahead of teammate Fernando Alonso in 0 of 5 races this season where both were classified.",
+  "values": {
+   "ahead": 0,
+   "races": 5
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:teammate_h2h:ALO",
+  "race_id": "2025_08",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "ALO",
+  "text": "Fernando Alonso has finished ahead of teammate Lance Stroll in 5 of 5 races this season where both were classified.",
+  "values": {
+   "ahead": 5,
+   "races": 5
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2025_08:championship_position:NOR",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "NOR",
+  "text": "Lando Norris arrives 2nd in the 2025 championship on 133 points.",
+  "values": {
+   "position": 2,
+   "points": 133.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:championship_position:LEC",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "LEC",
+  "text": "Charles Leclerc arrives 5th in the 2025 championship on 61 points.",
+  "values": {
+   "position": 5,
+   "points": 61.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:championship_position:PIA",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "PIA",
+  "text": "Oscar Piastri arrives 1st in the 2025 championship on 146 points.",
+  "values": {
+   "position": 1,
+   "points": 146.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:championship_position:VER",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "VER",
+  "text": "Max Verstappen arrives 3rd in the 2025 championship on 124 points.",
+  "values": {
+   "position": 3,
+   "points": 124.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:championship_position:HAM",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "HAM",
+  "text": "Lewis Hamilton arrives 6th in the 2025 championship on 53 points.",
+  "values": {
+   "position": 6,
+   "points": 53.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:championship_position:HAD",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "HAD",
+  "text": "Isack Hadjar arrives 14th in the 2025 championship on 7 points.",
+  "values": {
+   "position": 14,
+   "points": 7.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:championship_position:OCO",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "OCO",
+  "text": "Esteban Ocon arrives 9th in the 2025 championship on 14 points.",
+  "values": {
+   "position": 9,
+   "points": 14.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:championship_position:LAW",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "LAW",
+  "text": "Liam Lawson arrives 18th in the 2025 championship on 0 points.",
+  "values": {
+   "position": 18,
+   "points": 0.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:championship_position:ALB",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "ALB",
+  "text": "Alexander Albon arrives 8th in the 2025 championship on 40 points.",
+  "values": {
+   "position": 8,
+   "points": 40.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:championship_position:SAI",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "SAI",
+  "text": "Carlos Sainz arrives 11th in the 2025 championship on 11 points.",
+  "values": {
+   "position": 11,
+   "points": 11.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:championship_position:RUS",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "RUS",
+  "text": "George Russell arrives 4th in the 2025 championship on 99 points.",
+  "values": {
+   "position": 4,
+   "points": 99.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:championship_position:BEA",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "BEA",
+  "text": "Oliver Bearman arrives 16th in the 2025 championship on 6 points.",
+  "values": {
+   "position": 16,
+   "points": 6.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:championship_position:COL",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "COL",
+  "text": "Franco Colapinto arrives 21st in the 2025 championship on 0 points.",
+  "values": {
+   "position": 21,
+   "points": 0.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:championship_position:BOR",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "BOR",
+  "text": "Gabriel Bortoleto arrives 20th in the 2025 championship on 0 points.",
+  "values": {
+   "position": 20,
+   "points": 0.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:championship_position:STR",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "STR",
+  "text": "Lance Stroll arrives 10th in the 2025 championship on 14 points.",
+  "values": {
+   "position": 10,
+   "points": 14.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:championship_position:HUL",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "HUL",
+  "text": "Nico Hülkenberg arrives 15th in the 2025 championship on 6 points.",
+  "values": {
+   "position": 15,
+   "points": 6.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:championship_position:TSU",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "TSU",
+  "text": "Yuki Tsunoda arrives 12th in the 2025 championship on 10 points.",
+  "values": {
+   "position": 12,
+   "points": 10.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:championship_position:ANT",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "ANT",
+  "text": "Andrea Kimi Antonelli arrives 7th in the 2025 championship on 48 points.",
+  "values": {
+   "position": 7,
+   "points": 48.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:championship_position:ALO",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "ALO",
+  "text": "Fernando Alonso arrives 17th in the 2025 championship on 0 points.",
+  "values": {
+   "position": 17,
+   "points": 0.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:championship_position:GAS",
+  "race_id": "2025_08",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "GAS",
+  "text": "Pierre Gasly arrives 13th in the 2025 championship on 7 points.",
+  "values": {
+   "position": 13,
+   "points": 7.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2025 driver standings after round 7",
+   "url": "https://api.jolpi.ca/ergast/f1/2025/7/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2025_08:career_wins:NOR",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "NOR",
+  "text": "Lando Norris goes into this race with 5 career Grand Prix wins.",
+  "values": {
+   "wins": 5
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Lando Norris",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/norris/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:career_wins:LEC",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "LEC",
+  "text": "Charles Leclerc goes into this race with 8 career Grand Prix wins.",
+  "values": {
+   "wins": 8
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Charles Leclerc",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/leclerc/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:career_wins:PIA",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "PIA",
+  "text": "Oscar Piastri goes into this race with 6 career Grand Prix wins.",
+  "values": {
+   "wins": 6
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Oscar Piastri",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/piastri/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:career_wins:VER",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "VER",
+  "text": "Max Verstappen goes into this race with 65 career Grand Prix wins.",
+  "values": {
+   "wins": 65
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Max Verstappen",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/max_verstappen/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:career_wins:HAM",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "HAM",
+  "text": "Lewis Hamilton goes into this race with 105 career Grand Prix wins.",
+  "values": {
+   "wins": 105
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Lewis Hamilton",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/hamilton/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:career_wins:HAD",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "HAD",
+  "text": "Isack Hadjar is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Isack Hadjar",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/hadjar/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:career_wins:OCO",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "OCO",
+  "text": "Esteban Ocon goes into this race with 1 career Grand Prix win.",
+  "values": {
+   "wins": 1
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Esteban Ocon",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/ocon/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:career_wins:LAW",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "LAW",
+  "text": "Liam Lawson is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Liam Lawson",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/lawson/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:career_wins:ALB",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "ALB",
+  "text": "Alexander Albon is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Alexander Albon",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/albon/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:career_wins:SAI",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "SAI",
+  "text": "Carlos Sainz goes into this race with 4 career Grand Prix wins.",
+  "values": {
+   "wins": 4
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Carlos Sainz",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/sainz/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:career_wins:RUS",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "RUS",
+  "text": "George Russell goes into this race with 3 career Grand Prix wins.",
+  "values": {
+   "wins": 3
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of George Russell",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/russell/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:career_wins:BEA",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "BEA",
+  "text": "Oliver Bearman is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Oliver Bearman",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/bearman/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:career_wins:COL",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "COL",
+  "text": "Franco Colapinto is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Franco Colapinto",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/colapinto/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:career_wins:BOR",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "BOR",
+  "text": "Gabriel Bortoleto is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Gabriel Bortoleto",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/bortoleto/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:career_wins:STR",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "STR",
+  "text": "Lance Stroll is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Lance Stroll",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/stroll/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:career_wins:HUL",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "HUL",
+  "text": "Nico Hülkenberg is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Nico Hülkenberg",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/hulkenberg/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:career_wins:TSU",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "TSU",
+  "text": "Yuki Tsunoda is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Yuki Tsunoda",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/tsunoda/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:career_wins:ANT",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "ANT",
+  "text": "Andrea Kimi Antonelli is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Andrea Kimi Antonelli",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/antonelli/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:career_wins:ALO",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "ALO",
+  "text": "Fernando Alonso goes into this race with 32 career Grand Prix wins.",
+  "values": {
+   "wins": 32
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Fernando Alonso",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/alonso/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2025_08:career_wins:GAS",
+  "race_id": "2025_08",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "GAS",
+  "text": "Pierre Gasly goes into this race with 1 career Grand Prix win.",
+  "values": {
+   "wins": 1
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Pierre Gasly",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/gasly/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ }
+]

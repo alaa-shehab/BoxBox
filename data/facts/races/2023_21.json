@@ -1,0 +1,1581 @@
+[
+ {
+  "id": "2023_21:circuit_debut:VER",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "VER",
+  "text": "This is Max Verstappen's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_debut:LEC",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "LEC",
+  "text": "This is Charles Leclerc's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_debut:PER",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "PER",
+  "text": "This is Sergio Pérez's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_debut:OCO",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "OCO",
+  "text": "This is Esteban Ocon's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_debut:STR",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "STR",
+  "text": "This is Lance Stroll's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_debut:SAI",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "SAI",
+  "text": "This is Carlos Sainz's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_debut:HAM",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "HAM",
+  "text": "This is Lewis Hamilton's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_debut:RUS",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "RUS",
+  "text": "This is George Russell's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_debut:ALO",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "ALO",
+  "text": "This is Fernando Alonso's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_debut:PIA",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "PIA",
+  "text": "This is Oscar Piastri's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_debut:GAS",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "GAS",
+  "text": "This is Pierre Gasly's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_debut:ALB",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "ALB",
+  "text": "This is Alexander Albon's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_debut:MAG",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "MAG",
+  "text": "This is Kevin Magnussen's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_debut:RIC",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "RIC",
+  "text": "This is Daniel Ricciardo's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_debut:ZHO",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "ZHO",
+  "text": "This is Guanyu Zhou's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_debut:SAR",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "SAR",
+  "text": "This is Logan Sargeant's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_debut:BOT",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "BOT",
+  "text": "This is Valtteri Bottas's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_debut:TSU",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "TSU",
+  "text": "This is Yuki Tsunoda's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_debut:HUL",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "HUL",
+  "text": "This is Nico Hülkenberg's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_debut:NOR",
+  "race_id": "2023_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "NOR",
+  "text": "This is Lando Norris's first World Championship race at Las Vegas Strip Street Circuit.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2023_21:circuit_first_race:vegas",
+  "race_id": "2023_21",
+  "kind": "circuit_first_race",
+  "subject_type": "circuit",
+  "subject": "vegas",
+  "text": "This is the first World Championship race ever held at Las Vegas Strip Street Circuit.",
+  "values": {
+   "races": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Las Vegas Strip Street Circuit",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/vegas/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:VER",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "VER",
+  "text": "Max Verstappen has finished ahead of teammate Sergio Pérez in 16 of 18 races this season where both were classified.",
+  "values": {
+   "ahead": 16,
+   "races": 18
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:PER",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "PER",
+  "text": "Sergio Pérez has finished ahead of teammate Max Verstappen in 2 of 18 races this season where both were classified.",
+  "values": {
+   "ahead": 2,
+   "races": 18
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:LEC",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "LEC",
+  "text": "Charles Leclerc has finished ahead of teammate Carlos Sainz in 8 of 14 races this season where both were classified.",
+  "values": {
+   "ahead": 8,
+   "races": 14
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:SAI",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "SAI",
+  "text": "Carlos Sainz has finished ahead of teammate Charles Leclerc in 6 of 14 races this season where both were classified.",
+  "values": {
+   "ahead": 6,
+   "races": 14
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:OCO",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "OCO",
+  "text": "Esteban Ocon has finished ahead of teammate Pierre Gasly in 8 of 14 races this season where both were classified.",
+  "values": {
+   "ahead": 8,
+   "races": 14
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:GAS",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "GAS",
+  "text": "Pierre Gasly has finished ahead of teammate Esteban Ocon in 6 of 14 races this season where both were classified.",
+  "values": {
+   "ahead": 6,
+   "races": 14
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:STR",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "STR",
+  "text": "Lance Stroll has finished ahead of teammate Fernando Alonso in 1 of 14 races this season where both were classified.",
+  "values": {
+   "ahead": 1,
+   "races": 14
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:ALO",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "ALO",
+  "text": "Fernando Alonso has finished ahead of teammate Lance Stroll in 13 of 14 races this season where both were classified.",
+  "values": {
+   "ahead": 13,
+   "races": 14
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:HAM",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "HAM",
+  "text": "Lewis Hamilton has finished ahead of teammate George Russell in 11 of 16 races this season where both were classified.",
+  "values": {
+   "ahead": 11,
+   "races": 16
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:RUS",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "RUS",
+  "text": "George Russell has finished ahead of teammate Lewis Hamilton in 5 of 16 races this season where both were classified.",
+  "values": {
+   "ahead": 5,
+   "races": 16
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:PIA",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "PIA",
+  "text": "Oscar Piastri has finished ahead of teammate Lando Norris in 4 of 17 races this season where both were classified.",
+  "values": {
+   "ahead": 4,
+   "races": 17
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:NOR",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "NOR",
+  "text": "Lando Norris has finished ahead of teammate Oscar Piastri in 13 of 17 races this season where both were classified.",
+  "values": {
+   "ahead": 13,
+   "races": 17
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:ALB",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "ALB",
+  "text": "Alexander Albon has finished ahead of teammate Logan Sargeant in 13 of 13 races this season where both were classified.",
+  "values": {
+   "ahead": 13,
+   "races": 13
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:SAR",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "SAR",
+  "text": "Logan Sargeant has finished ahead of teammate Alexander Albon in 0 of 13 races this season where both were classified.",
+  "values": {
+   "ahead": 0,
+   "races": 13
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:MAG",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "MAG",
+  "text": "Kevin Magnussen has finished ahead of teammate Nico Hülkenberg in 7 of 16 races this season where both were classified.",
+  "values": {
+   "ahead": 7,
+   "races": 16
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:HUL",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "HUL",
+  "text": "Nico Hülkenberg has finished ahead of teammate Kevin Magnussen in 9 of 16 races this season where both were classified.",
+  "values": {
+   "ahead": 9,
+   "races": 16
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:RIC",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "RIC",
+  "text": "Daniel Ricciardo has finished ahead of teammate Yuki Tsunoda in 2 of 5 races this season where both were classified.",
+  "values": {
+   "ahead": 2,
+   "races": 5
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:TSU",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "TSU",
+  "text": "Yuki Tsunoda has finished ahead of teammate Daniel Ricciardo in 3 of 5 races this season where both were classified.",
+  "values": {
+   "ahead": 3,
+   "races": 5
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:ZHO",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "ZHO",
+  "text": "Guanyu Zhou has finished ahead of teammate Valtteri Bottas in 5 of 15 races this season where both were classified.",
+  "values": {
+   "ahead": 5,
+   "races": 15
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:teammate_h2h:BOT",
+  "race_id": "2023_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "BOT",
+  "text": "Valtteri Bottas has finished ahead of teammate Guanyu Zhou in 10 of 15 races this season where both were classified.",
+  "values": {
+   "ahead": 10,
+   "races": 15
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2023_21:championship_position:VER",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "VER",
+  "text": "Max Verstappen arrives 1st in the 2023 championship on 524 points.",
+  "values": {
+   "position": 1,
+   "points": 524.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:championship_position:LEC",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "LEC",
+  "text": "Charles Leclerc arrives 7th in the 2023 championship on 170 points.",
+  "values": {
+   "position": 7,
+   "points": 170.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:championship_position:PER",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "PER",
+  "text": "Sergio Pérez arrives 2nd in the 2023 championship on 258 points.",
+  "values": {
+   "position": 2,
+   "points": 258.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:championship_position:OCO",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "OCO",
+  "text": "Esteban Ocon arrives 12th in the 2023 championship on 46 points.",
+  "values": {
+   "position": 12,
+   "points": 46.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:championship_position:STR",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "STR",
+  "text": "Lance Stroll arrives 10th in the 2023 championship on 63 points.",
+  "values": {
+   "position": 10,
+   "points": 63.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:championship_position:SAI",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "SAI",
+  "text": "Carlos Sainz arrives 6th in the 2023 championship on 192 points.",
+  "values": {
+   "position": 6,
+   "points": 192.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:championship_position:HAM",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "HAM",
+  "text": "Lewis Hamilton arrives 3rd in the 2023 championship on 226 points.",
+  "values": {
+   "position": 3,
+   "points": 226.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:championship_position:RUS",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "RUS",
+  "text": "George Russell arrives 8th in the 2023 championship on 156 points.",
+  "values": {
+   "position": 8,
+   "points": 156.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:championship_position:ALO",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "ALO",
+  "text": "Fernando Alonso arrives 4th in the 2023 championship on 198 points.",
+  "values": {
+   "position": 4,
+   "points": 198.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:championship_position:PIA",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "PIA",
+  "text": "Oscar Piastri arrives 9th in the 2023 championship on 87 points.",
+  "values": {
+   "position": 9,
+   "points": 87.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:championship_position:GAS",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "GAS",
+  "text": "Pierre Gasly arrives 11th in the 2023 championship on 62 points.",
+  "values": {
+   "position": 11,
+   "points": 62.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:championship_position:ALB",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "ALB",
+  "text": "Alexander Albon arrives 13th in the 2023 championship on 27 points.",
+  "values": {
+   "position": 13,
+   "points": 27.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:championship_position:MAG",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "MAG",
+  "text": "Kevin Magnussen arrives 19th in the 2023 championship on 3 points.",
+  "values": {
+   "position": 19,
+   "points": 3.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:championship_position:RIC",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "RIC",
+  "text": "Daniel Ricciardo arrives 17th in the 2023 championship on 6 points.",
+  "values": {
+   "position": 17,
+   "points": 6.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:championship_position:ZHO",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "ZHO",
+  "text": "Guanyu Zhou arrives 18th in the 2023 championship on 6 points.",
+  "values": {
+   "position": 18,
+   "points": 6.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:championship_position:SAR",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "SAR",
+  "text": "Logan Sargeant arrives 21st in the 2023 championship on 1 points.",
+  "values": {
+   "position": 21,
+   "points": 1.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:championship_position:BOT",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "BOT",
+  "text": "Valtteri Bottas arrives 15th in the 2023 championship on 10 points.",
+  "values": {
+   "position": 15,
+   "points": 10.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:championship_position:TSU",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "TSU",
+  "text": "Yuki Tsunoda arrives 14th in the 2023 championship on 13 points.",
+  "values": {
+   "position": 14,
+   "points": 13.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:championship_position:HUL",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "HUL",
+  "text": "Nico Hülkenberg arrives 16th in the 2023 championship on 9 points.",
+  "values": {
+   "position": 16,
+   "points": 9.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:championship_position:NOR",
+  "race_id": "2023_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "NOR",
+  "text": "Lando Norris arrives 5th in the 2023 championship on 195 points.",
+  "values": {
+   "position": 5,
+   "points": 195.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2023 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2023/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2023_21:career_wins:VER",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "VER",
+  "text": "Max Verstappen goes into this race with 52 career Grand Prix wins.",
+  "values": {
+   "wins": 52
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Max Verstappen",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/max_verstappen/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2023_21:career_wins:LEC",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "LEC",
+  "text": "Charles Leclerc goes into this race with 5 career Grand Prix wins.",
+  "values": {
+   "wins": 5
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Charles Leclerc",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/leclerc/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2023_21:career_wins:PER",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "PER",
+  "text": "Sergio Pérez goes into this race with 6 career Grand Prix wins.",
+  "values": {
+   "wins": 6
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Sergio Pérez",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/perez/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2023_21:career_wins:OCO",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "OCO",
+  "text": "Esteban Ocon goes into this race with 1 career Grand Prix win.",
+  "values": {
+   "wins": 1
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Esteban Ocon",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/ocon/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2023_21:career_wins:STR",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "STR",
+  "text": "Lance Stroll is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Lance Stroll",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/stroll/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2023_21:career_wins:SAI",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "SAI",
+  "text": "Carlos Sainz goes into this race with 2 career Grand Prix wins.",
+  "values": {
+   "wins": 2
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Carlos Sainz",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/sainz/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2023_21:career_wins:HAM",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "HAM",
+  "text": "Lewis Hamilton goes into this race with 103 career Grand Prix wins.",
+  "values": {
+   "wins": 103
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Lewis Hamilton",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/hamilton/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2023_21:career_wins:RUS",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "RUS",
+  "text": "George Russell goes into this race with 1 career Grand Prix win.",
+  "values": {
+   "wins": 1
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of George Russell",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/russell/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2023_21:career_wins:ALO",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "ALO",
+  "text": "Fernando Alonso goes into this race with 32 career Grand Prix wins.",
+  "values": {
+   "wins": 32
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Fernando Alonso",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/alonso/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2023_21:career_wins:PIA",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "PIA",
+  "text": "Oscar Piastri is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Oscar Piastri",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/piastri/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2023_21:career_wins:GAS",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "GAS",
+  "text": "Pierre Gasly goes into this race with 1 career Grand Prix win.",
+  "values": {
+   "wins": 1
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Pierre Gasly",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/gasly/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2023_21:career_wins:ALB",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "ALB",
+  "text": "Alexander Albon is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Alexander Albon",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/albon/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2023_21:career_wins:MAG",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "MAG",
+  "text": "Kevin Magnussen is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Kevin Magnussen",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/kevin_magnussen/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2023_21:career_wins:RIC",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "RIC",
+  "text": "Daniel Ricciardo goes into this race with 8 career Grand Prix wins.",
+  "values": {
+   "wins": 8
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Daniel Ricciardo",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/ricciardo/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2023_21:career_wins:ZHO",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "ZHO",
+  "text": "Guanyu Zhou is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Guanyu Zhou",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/zhou/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2023_21:career_wins:SAR",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "SAR",
+  "text": "Logan Sargeant is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Logan Sargeant",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/sargeant/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2023_21:career_wins:BOT",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "BOT",
+  "text": "Valtteri Bottas goes into this race with 10 career Grand Prix wins.",
+  "values": {
+   "wins": 10
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Valtteri Bottas",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/bottas/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2023_21:career_wins:TSU",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "TSU",
+  "text": "Yuki Tsunoda is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Yuki Tsunoda",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/tsunoda/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2023_21:career_wins:HUL",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "HUL",
+  "text": "Nico Hülkenberg is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Nico Hülkenberg",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/hulkenberg/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2023_21:career_wins:NOR",
+  "race_id": "2023_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "NOR",
+  "text": "Lando Norris is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Lando Norris",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/norris/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ }
+]

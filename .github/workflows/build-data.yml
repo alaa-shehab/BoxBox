@@ -1,0 +1,70 @@
+# Rebuilds network-sourced data on GitHub's runners and commits it back to the branch.
+#
+# Some sources (e.g. Wikipedia) block shared cloud-dev IPs, so data builds run here.
+# Trigger: push a commit whose message contains "[build-data]" (optionally
+# "[build-data:wiki]", "[build-data:facts]", "[build-data:replays]" or "[build-data:regs]").
+# Or run it manually from the Actions tab once this file is on the default branch.
+name: build-data
+
+on:
+  push:
+  workflow_dispatch:
+    inputs:
+      target:
+        description: "wiki | facts | replays | regs | all"
+        default: "wiki"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-data-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      contains(github.event.head_commit.message, '[build-data')
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -e ".[dev]"
+      - name: Pick target
+        id: target
+        env:
+          MSG: ${{ github.event.head_commit.message }}
+          INPUT: ${{ github.event.inputs.target }}
+        run: |
+          t="${INPUT:-}"
+          if [ -z "$t" ]; then
+            t=$(echo "$MSG" | grep -oE '\[build-data(:[a-z]+)?\]' | head -1 | sed -E 's/\[build-data:?([a-z]*)\]/\1/')
+            t="${t:-all}"
+          fi
+          echo "target=$t" >> "$GITHUB_OUTPUT"
+          echo "Building: $t"
+      - name: Wikipedia corpus
+        if: contains(fromJSON('["wiki","all"]'), steps.target.outputs.target)
+        run: python scripts/build_facts.py --only-wiki
+      - name: Stat facts
+        if: contains(fromJSON('["facts","all"]'), steps.target.outputs.target)
+        run: python scripts/build_facts.py --skip-wiki
+      - name: Replays
+        if: contains(fromJSON('["replays","all"]'), steps.target.outputs.target)
+        run: python scripts/build_replays.py
+      - name: Regulations index
+        if: contains(fromJSON('["regs","all"]'), steps.target.outputs.target)
+        run: python scripts/ingest_regs.py
+      - name: Commit results
+        run: |
+          git config user.name "pit-wall-data-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/facts data/replays data/index
+          if git diff --cached --quiet; then echo "No data changes"; exit 0; fi
+          git commit -m "Rebuild data (${{ steps.target.outputs.target }}) on GitHub Actions"
+          git push origin HEAD:${{ github.ref_name }}

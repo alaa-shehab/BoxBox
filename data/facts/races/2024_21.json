@@ -1,0 +1,1726 @@
+[
+ {
+  "id": "2024_21:circuit_wins:VER",
+  "race_id": "2024_21",
+  "kind": "circuit_wins",
+  "subject_type": "driver",
+  "subject": "VER",
+  "text": "Max Verstappen has won 2 times at Autódromo José Carlos Pace (2019, 2023) in 8 starts there.",
+  "values": {
+   "wins": 2,
+   "starts": 8,
+   "years": "2019, 2023"
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 1.0
+ },
+ {
+  "id": "2024_21:circuit_no_podium:OCO",
+  "race_id": "2024_21",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "OCO",
+  "text": "Esteban Ocon has never finished on the podium at Autódromo José Carlos Pace in 6 starts; best finish P8.",
+  "values": {
+   "starts": 6,
+   "best": 8
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_21:circuit_podiums:GAS",
+  "race_id": "2024_21",
+  "kind": "circuit_podiums",
+  "subject_type": "driver",
+  "subject": "GAS",
+  "text": "Pierre Gasly has 1 podium finish at Autódromo José Carlos Pace in 6 starts, but has never won there; best finish P2.",
+  "values": {
+   "podiums": 1,
+   "starts": 6,
+   "best": 2
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.95
+ },
+ {
+  "id": "2024_21:circuit_wins:RUS",
+  "race_id": "2024_21",
+  "kind": "circuit_wins",
+  "subject_type": "driver",
+  "subject": "RUS",
+  "text": "George Russell has won 1 time at Autódromo José Carlos Pace (2022) in 4 starts there.",
+  "values": {
+   "wins": 1,
+   "starts": 4,
+   "years": "2022"
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 1.0
+ },
+ {
+  "id": "2024_21:circuit_no_podium:LEC",
+  "race_id": "2024_21",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "LEC",
+  "text": "Charles Leclerc has never finished on the podium at Autódromo José Carlos Pace in 5 starts; best finish P4.",
+  "values": {
+   "starts": 5,
+   "best": 4
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_21:circuit_podiums:NOR",
+  "race_id": "2024_21",
+  "kind": "circuit_podiums",
+  "subject_type": "driver",
+  "subject": "NOR",
+  "text": "Lando Norris has 1 podium finish at Autódromo José Carlos Pace in 4 starts, but has never won there; best finish P2.",
+  "values": {
+   "podiums": 1,
+   "starts": 4,
+   "best": 2
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.95
+ },
+ {
+  "id": "2024_21:circuit_no_podium:TSU",
+  "race_id": "2024_21",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "TSU",
+  "text": "Yuki Tsunoda has never finished on the podium at Autódromo José Carlos Pace in 3 starts; best finish P9.",
+  "values": {
+   "starts": 3,
+   "best": 9
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_21:circuit_no_podium:PIA",
+  "race_id": "2024_21",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "PIA",
+  "text": "Oscar Piastri has never finished on the podium at Autódromo José Carlos Pace in 1 starts; best finish P14.",
+  "values": {
+   "starts": 1,
+   "best": 14
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_21:circuit_debut:LAW",
+  "race_id": "2024_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "LAW",
+  "text": "This is Liam Lawson's first World Championship race at Autódromo José Carlos Pace.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_21:circuit_wins:HAM",
+  "race_id": "2024_21",
+  "kind": "circuit_wins",
+  "subject_type": "driver",
+  "subject": "HAM",
+  "text": "Lewis Hamilton has won 3 times at Autódromo José Carlos Pace (2016, 2018, 2021) in 16 starts there.",
+  "values": {
+   "wins": 3,
+   "starts": 16,
+   "years": "2016, 2018, 2021"
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 1.0
+ },
+ {
+  "id": "2024_21:circuit_no_podium:PER",
+  "race_id": "2024_21",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "PER",
+  "text": "Sergio Pérez has never finished on the podium at Autódromo José Carlos Pace in 12 starts; best finish P4.",
+  "values": {
+   "starts": 12,
+   "best": 4
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_21:circuit_debut:BEA",
+  "race_id": "2024_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "BEA",
+  "text": "This is Oliver Bearman's first World Championship race at Autódromo José Carlos Pace.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_21:circuit_podiums:BOT",
+  "race_id": "2024_21",
+  "kind": "circuit_podiums",
+  "subject_type": "driver",
+  "subject": "BOT",
+  "text": "Valtteri Bottas has 2 podium finishes at Autódromo José Carlos Pace in 10 starts, but has never won there; best finish P2.",
+  "values": {
+   "podiums": 2,
+   "starts": 10,
+   "best": 2
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.95
+ },
+ {
+  "id": "2024_21:circuit_podiums:ALO",
+  "race_id": "2024_21",
+  "kind": "circuit_podiums",
+  "subject_type": "driver",
+  "subject": "ALO",
+  "text": "Fernando Alonso has 9 podium finishes at Autódromo José Carlos Pace in 20 starts, but has never won there; best finish P2.",
+  "values": {
+   "podiums": 9,
+   "starts": 20,
+   "best": 2
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.95
+ },
+ {
+  "id": "2024_21:circuit_no_podium:ZHO",
+  "race_id": "2024_21",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "ZHO",
+  "text": "Guanyu Zhou has never finished on the podium at Autódromo José Carlos Pace in 2 starts; best finish P12.",
+  "values": {
+   "starts": 2,
+   "best": 12
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_21:circuit_podiums:SAI",
+  "race_id": "2024_21",
+  "kind": "circuit_podiums",
+  "subject_type": "driver",
+  "subject": "SAI",
+  "text": "Carlos Sainz has 2 podium finishes at Autódromo José Carlos Pace in 8 starts, but has never won there; best finish P3.",
+  "values": {
+   "podiums": 2,
+   "starts": 8,
+   "best": 3
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.95
+ },
+ {
+  "id": "2024_21:circuit_debut:COL",
+  "race_id": "2024_21",
+  "kind": "circuit_debut",
+  "subject_type": "driver",
+  "subject": "COL",
+  "text": "This is Franco Colapinto's first World Championship race at Autódromo José Carlos Pace.",
+  "values": {
+   "starts": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_21:circuit_no_podium:ALB",
+  "race_id": "2024_21",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "ALB",
+  "text": "Alexander Albon has never finished on the podium at Autódromo José Carlos Pace in 3 starts; best finish P14.",
+  "values": {
+   "starts": 3,
+   "best": 14
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_21:circuit_no_podium:STR",
+  "race_id": "2024_21",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "STR",
+  "text": "Lance Stroll has never finished on the podium at Autódromo José Carlos Pace in 6 starts; best finish P5.",
+  "values": {
+   "starts": 6,
+   "best": 5
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_21:circuit_no_podium:HUL",
+  "race_id": "2024_21",
+  "kind": "circuit_no_podium",
+  "subject_type": "driver",
+  "subject": "HUL",
+  "text": "Nico Hülkenberg has never finished on the podium at Autódromo José Carlos Pace in 10 starts; best finish P5.",
+  "values": {
+   "starts": 10,
+   "best": 5
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.9
+ },
+ {
+  "id": "2024_21:team_circuit_wins:ferrari",
+  "race_id": "2024_21",
+  "kind": "team_circuit_wins",
+  "subject_type": "team",
+  "subject": "ferrari",
+  "text": "Ferrari has won 9 times at Autódromo José Carlos Pace, most recently in 2017.",
+  "values": {
+   "wins": 9,
+   "last_win": 2017
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.85
+ },
+ {
+  "id": "2024_21:team_circuit_wins:mclaren",
+  "race_id": "2024_21",
+  "kind": "team_circuit_wins",
+  "subject_type": "team",
+  "subject": "mclaren",
+  "text": "McLaren has won 8 times at Autódromo José Carlos Pace, most recently in 2012.",
+  "values": {
+   "wins": 8,
+   "last_win": 2012
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.85
+ },
+ {
+  "id": "2024_21:team_circuit_wins:mercedes",
+  "race_id": "2024_21",
+  "kind": "team_circuit_wins",
+  "subject_type": "team",
+  "subject": "mercedes",
+  "text": "Mercedes has won 6 times at Autódromo José Carlos Pace, most recently in 2022.",
+  "values": {
+   "wins": 6,
+   "last_win": 2022
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.85
+ },
+ {
+  "id": "2024_21:team_circuit_wins:red_bull",
+  "race_id": "2024_21",
+  "kind": "team_circuit_wins",
+  "subject_type": "team",
+  "subject": "red_bull",
+  "text": "Red Bull Racing has won 6 times at Autódromo José Carlos Pace, most recently in 2023.",
+  "values": {
+   "wins": 6,
+   "last_win": 2023
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.85
+ },
+ {
+  "id": "2024_21:team_circuit_wins:williams",
+  "race_id": "2024_21",
+  "kind": "team_circuit_wins",
+  "subject_type": "team",
+  "subject": "williams",
+  "text": "Williams has won 4 times at Autódromo José Carlos Pace, most recently in 2004.",
+  "values": {
+   "wins": 4,
+   "last_win": 2004
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.85
+ },
+ {
+  "id": "2024_21:circuit_first_race:interlagos",
+  "race_id": "2024_21",
+  "kind": "circuit_first_race",
+  "subject_type": "circuit",
+  "subject": "interlagos",
+  "text": "Autódromo José Carlos Pace first hosted a World Championship race in 1973; this is its 41st championship race.",
+  "values": {
+   "first_year": 1973,
+   "races": 40
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:circuit_most_wins:interlagos",
+  "race_id": "2024_21",
+  "kind": "circuit_most_wins",
+  "subject_type": "circuit",
+  "subject": "interlagos",
+  "text": "The most successful driver at Autódromo José Carlos Pace is Michael Schumacher with 4 wins.",
+  "values": {
+   "wins": 4
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: all results at Autódromo José Carlos Pace",
+   "url": "https://api.jolpi.ca/ergast/f1/circuits/interlagos/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:teammate_h2h:VER",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "VER",
+  "text": "Max Verstappen has finished ahead of teammate Sergio Pérez in 17 of 17 races this season where both were classified.",
+  "values": {
+   "ahead": 17,
+   "races": 17
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:teammate_h2h:PER",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "PER",
+  "text": "Sergio Pérez has finished ahead of teammate Max Verstappen in 0 of 17 races this season where both were classified.",
+  "values": {
+   "ahead": 0,
+   "races": 17
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:teammate_h2h:OCO",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "OCO",
+  "text": "Esteban Ocon has finished ahead of teammate Pierre Gasly in 8 of 16 races this season where both were classified.",
+  "values": {
+   "ahead": 8,
+   "races": 16
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:teammate_h2h:GAS",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "GAS",
+  "text": "Pierre Gasly has finished ahead of teammate Esteban Ocon in 8 of 16 races this season where both were classified.",
+  "values": {
+   "ahead": 8,
+   "races": 16
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:teammate_h2h:RUS",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "RUS",
+  "text": "George Russell has finished ahead of teammate Lewis Hamilton in 10 of 17 races this season where both were classified.",
+  "values": {
+   "ahead": 10,
+   "races": 17
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:teammate_h2h:HAM",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "HAM",
+  "text": "Lewis Hamilton has finished ahead of teammate George Russell in 7 of 17 races this season where both were classified.",
+  "values": {
+   "ahead": 7,
+   "races": 17
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:teammate_h2h:LEC",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "LEC",
+  "text": "Charles Leclerc has finished ahead of teammate Carlos Sainz in 12 of 18 races this season where both were classified.",
+  "values": {
+   "ahead": 12,
+   "races": 18
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:teammate_h2h:SAI",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "SAI",
+  "text": "Carlos Sainz has finished ahead of teammate Charles Leclerc in 6 of 18 races this season where both were classified.",
+  "values": {
+   "ahead": 6,
+   "races": 18
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:teammate_h2h:NOR",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "NOR",
+  "text": "Lando Norris has finished ahead of teammate Oscar Piastri in 13 of 20 races this season where both were classified.",
+  "values": {
+   "ahead": 13,
+   "races": 20
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:teammate_h2h:PIA",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "PIA",
+  "text": "Oscar Piastri has finished ahead of teammate Lando Norris in 7 of 20 races this season where both were classified.",
+  "values": {
+   "ahead": 7,
+   "races": 20
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:teammate_h2h:TSU",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "TSU",
+  "text": "Yuki Tsunoda has finished ahead of teammate Liam Lawson in 0 of 1 races this season where both were classified.",
+  "values": {
+   "ahead": 0,
+   "races": 1
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:teammate_h2h:LAW",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "LAW",
+  "text": "Liam Lawson has finished ahead of teammate Yuki Tsunoda in 1 of 1 races this season where both were classified.",
+  "values": {
+   "ahead": 1,
+   "races": 1
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:teammate_h2h:BEA",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "BEA",
+  "text": "Oliver Bearman has finished ahead of teammate Nico Hülkenberg in 2 of 2 races this season where both were classified.",
+  "values": {
+   "ahead": 2,
+   "races": 2
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:teammate_h2h:HUL",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "HUL",
+  "text": "Nico Hülkenberg has finished ahead of teammate Oliver Bearman in 0 of 2 races this season where both were classified.",
+  "values": {
+   "ahead": 0,
+   "races": 2
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:teammate_h2h:BOT",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "BOT",
+  "text": "Valtteri Bottas has finished ahead of teammate Guanyu Zhou in 11 of 17 races this season where both were classified.",
+  "values": {
+   "ahead": 11,
+   "races": 17
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:teammate_h2h:ZHO",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "ZHO",
+  "text": "Guanyu Zhou has finished ahead of teammate Valtteri Bottas in 6 of 17 races this season where both were classified.",
+  "values": {
+   "ahead": 6,
+   "races": 17
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:teammate_h2h:ALO",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "ALO",
+  "text": "Fernando Alonso has finished ahead of teammate Lance Stroll in 13 of 18 races this season where both were classified.",
+  "values": {
+   "ahead": 13,
+   "races": 18
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:teammate_h2h:STR",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "STR",
+  "text": "Lance Stroll has finished ahead of teammate Fernando Alonso in 5 of 18 races this season where both were classified.",
+  "values": {
+   "ahead": 5,
+   "races": 18
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:teammate_h2h:COL",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "COL",
+  "text": "Franco Colapinto has finished ahead of teammate Alexander Albon in 1 of 3 races this season where both were classified.",
+  "values": {
+   "ahead": 1,
+   "races": 3
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:teammate_h2h:ALB",
+  "race_id": "2024_21",
+  "kind": "teammate_h2h",
+  "subject_type": "driver",
+  "subject": "ALB",
+  "text": "Alexander Albon has finished ahead of teammate Franco Colapinto in 2 of 3 races this season where both were classified.",
+  "values": {
+   "ahead": 2,
+   "races": 3
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 race results",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/results.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.8
+ },
+ {
+  "id": "2024_21:championship_position:VER",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "VER",
+  "text": "Max Verstappen arrives 1st in the 2024 championship on 362 points.",
+  "values": {
+   "position": 1,
+   "points": 362.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:championship_position:OCO",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "OCO",
+  "text": "Esteban Ocon arrives 19th in the 2024 championship on 5 points.",
+  "values": {
+   "position": 19,
+   "points": 5.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:championship_position:GAS",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "GAS",
+  "text": "Pierre Gasly arrives 16th in the 2024 championship on 9 points.",
+  "values": {
+   "position": 16,
+   "points": 9.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:championship_position:RUS",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "RUS",
+  "text": "George Russell arrives 7th in the 2024 championship on 177 points.",
+  "values": {
+   "position": 7,
+   "points": 177.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:championship_position:LEC",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "LEC",
+  "text": "Charles Leclerc arrives 3rd in the 2024 championship on 291 points.",
+  "values": {
+   "position": 3,
+   "points": 291.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:championship_position:NOR",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "NOR",
+  "text": "Lando Norris arrives 2nd in the 2024 championship on 315 points.",
+  "values": {
+   "position": 2,
+   "points": 315.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:championship_position:TSU",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "TSU",
+  "text": "Yuki Tsunoda arrives 12th in the 2024 championship on 22 points.",
+  "values": {
+   "position": 12,
+   "points": 22.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:championship_position:PIA",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "PIA",
+  "text": "Oscar Piastri arrives 4th in the 2024 championship on 251 points.",
+  "values": {
+   "position": 4,
+   "points": 251.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:championship_position:LAW",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "LAW",
+  "text": "Liam Lawson arrives 20th in the 2024 championship on 2 points.",
+  "values": {
+   "position": 20,
+   "points": 2.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:championship_position:HAM",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "HAM",
+  "text": "Lewis Hamilton arrives 6th in the 2024 championship on 189 points.",
+  "values": {
+   "position": 6,
+   "points": 189.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:championship_position:PER",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "PER",
+  "text": "Sergio Pérez arrives 8th in the 2024 championship on 150 points.",
+  "values": {
+   "position": 8,
+   "points": 150.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:championship_position:BEA",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "BEA",
+  "text": "Oliver Bearman arrives 17th in the 2024 championship on 7 points.",
+  "values": {
+   "position": 17,
+   "points": 7.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:championship_position:BOT",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "BOT",
+  "text": "Valtteri Bottas arrives 23rd in the 2024 championship on 0 points.",
+  "values": {
+   "position": 23,
+   "points": 0.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:championship_position:ALO",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "ALO",
+  "text": "Fernando Alonso arrives 9th in the 2024 championship on 62 points.",
+  "values": {
+   "position": 9,
+   "points": 62.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:championship_position:ZHO",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "ZHO",
+  "text": "Guanyu Zhou arrives 21st in the 2024 championship on 0 points.",
+  "values": {
+   "position": 21,
+   "points": 0.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:championship_position:SAI",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "SAI",
+  "text": "Carlos Sainz arrives 5th in the 2024 championship on 240 points.",
+  "values": {
+   "position": 5,
+   "points": 240.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:championship_position:COL",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "COL",
+  "text": "Franco Colapinto arrives 18th in the 2024 championship on 5 points.",
+  "values": {
+   "position": 18,
+   "points": 5.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:championship_position:ALB",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "ALB",
+  "text": "Alexander Albon arrives 14th in the 2024 championship on 12 points.",
+  "values": {
+   "position": 14,
+   "points": 12.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:championship_position:STR",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "STR",
+  "text": "Lance Stroll arrives 11th in the 2024 championship on 24 points.",
+  "values": {
+   "position": 11,
+   "points": 24.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:championship_position:HUL",
+  "race_id": "2024_21",
+  "kind": "championship_position",
+  "subject_type": "driver",
+  "subject": "HUL",
+  "text": "Nico Hülkenberg arrives 10th in the 2024 championship on 31 points.",
+  "values": {
+   "position": 10,
+   "points": 31.0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: 2024 driver standings after round 20",
+   "url": "https://api.jolpi.ca/ergast/f1/2024/20/driverStandings.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.7
+ },
+ {
+  "id": "2024_21:career_wins:VER",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "VER",
+  "text": "Max Verstappen goes into this race with 61 career Grand Prix wins.",
+  "values": {
+   "wins": 61
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Max Verstappen",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/max_verstappen/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:career_wins:OCO",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "OCO",
+  "text": "Esteban Ocon goes into this race with 1 career Grand Prix win.",
+  "values": {
+   "wins": 1
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Esteban Ocon",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/ocon/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:career_wins:GAS",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "GAS",
+  "text": "Pierre Gasly goes into this race with 1 career Grand Prix win.",
+  "values": {
+   "wins": 1
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Pierre Gasly",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/gasly/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:career_wins:RUS",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "RUS",
+  "text": "George Russell goes into this race with 2 career Grand Prix wins.",
+  "values": {
+   "wins": 2
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of George Russell",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/russell/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:career_wins:LEC",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "LEC",
+  "text": "Charles Leclerc goes into this race with 8 career Grand Prix wins.",
+  "values": {
+   "wins": 8
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Charles Leclerc",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/leclerc/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:career_wins:NOR",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "NOR",
+  "text": "Lando Norris goes into this race with 3 career Grand Prix wins.",
+  "values": {
+   "wins": 3
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Lando Norris",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/norris/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:career_wins:TSU",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "TSU",
+  "text": "Yuki Tsunoda is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Yuki Tsunoda",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/tsunoda/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:career_wins:PIA",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "PIA",
+  "text": "Oscar Piastri goes into this race with 2 career Grand Prix wins.",
+  "values": {
+   "wins": 2
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Oscar Piastri",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/piastri/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:career_wins:LAW",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "LAW",
+  "text": "Liam Lawson is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Liam Lawson",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/lawson/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:career_wins:HAM",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "HAM",
+  "text": "Lewis Hamilton goes into this race with 105 career Grand Prix wins.",
+  "values": {
+   "wins": 105
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Lewis Hamilton",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/hamilton/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:career_wins:PER",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "PER",
+  "text": "Sergio Pérez goes into this race with 6 career Grand Prix wins.",
+  "values": {
+   "wins": 6
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Sergio Pérez",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/perez/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:career_wins:BEA",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "BEA",
+  "text": "Oliver Bearman is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Oliver Bearman",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/bearman/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:career_wins:BOT",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "BOT",
+  "text": "Valtteri Bottas goes into this race with 10 career Grand Prix wins.",
+  "values": {
+   "wins": 10
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Valtteri Bottas",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/bottas/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:career_wins:ALO",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "ALO",
+  "text": "Fernando Alonso goes into this race with 32 career Grand Prix wins.",
+  "values": {
+   "wins": 32
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Fernando Alonso",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/alonso/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:career_wins:ZHO",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "ZHO",
+  "text": "Guanyu Zhou is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Guanyu Zhou",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/zhou/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:career_wins:SAI",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "SAI",
+  "text": "Carlos Sainz goes into this race with 4 career Grand Prix wins.",
+  "values": {
+   "wins": 4
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Carlos Sainz",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/sainz/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:career_wins:COL",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "COL",
+  "text": "Franco Colapinto is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Franco Colapinto",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/colapinto/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:career_wins:ALB",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "ALB",
+  "text": "Alexander Albon is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Alexander Albon",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/albon/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:career_wins:STR",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "STR",
+  "text": "Lance Stroll is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Lance Stroll",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/stroll/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ },
+ {
+  "id": "2024_21:career_wins:HUL",
+  "race_id": "2024_21",
+  "kind": "career_wins",
+  "subject_type": "driver",
+  "subject": "HUL",
+  "text": "Nico Hülkenberg is still chasing a first Grand Prix win.",
+  "values": {
+   "wins": 0
+  },
+  "source": {
+   "source_type": "jolpica",
+   "label": "Jolpica F1 API: race wins of Nico Hülkenberg",
+   "url": "https://api.jolpi.ca/ergast/f1/drivers/hulkenberg/results/1.json",
+   "article": null,
+   "page": null
+  },
+  "relevance": 0.6
+ }
+]

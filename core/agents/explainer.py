@@ -5,9 +5,9 @@ Pipeline for one event:
      drivers from the RaceState, and, for rule events, the top regulation chunks retrieved
      as [S1], [S2], ...
   2. Ask the LLM (system prompt = grounding rules + the fan's level style).
-  3. Numeric guard: every number in the answer must come from that context. On failure,
-     regenerate once with the offending numbers named, then fall back to the template.
-  4. Any LLM error (rate limit, timeout, no provider) also falls back to the template.
+  3. `core.agents.grounded.generate`: numeric guard, one retry naming the offending
+     numbers, then the template. Any LLM error (rate limit, timeout, no provider) also
+     falls back to the template.
 
 The template is the event's deterministic summary, so the feed is never empty or wrong.
 """
@@ -16,18 +16,15 @@ from __future__ import annotations
 
 import json
 import re
-import time
 from typing import Literal
 
-from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_core.runnables import Runnable
 from pydantic import BaseModel, ConfigDict
 
-from core.agents.guard import check_numbers
+from core.agents.grounded import generate
 from core.events.types import Event
 from core.log import get_logger
 from core.models import Citation, Level, RaceMeta, RaceState
-from core.prompts import system_prompt
 from core.rag.retriever import RegRetriever, RetrievedChunk
 
 log = get_logger(__name__)
@@ -217,65 +214,26 @@ class Explainer:
         regs = self._regs(event, season)
         if self.llm is None:
             return self.template(event, level, regs)
-
         context = self.build_context(event, state, meta, regs)
-        messages = [
-            SystemMessage(system_prompt(level, TASK)),
-            HumanMessage(context),
-        ]
-        start = time.perf_counter()
-        retries = 0
-        try:
-            text = self._ask(messages)
-            guard = check_numbers(text, context)
-            if not guard.ok:
-                retries = 1
-                messages += [
-                    HumanMessage(
-                        f"Your answer used numbers that are not in the data: "
-                        f"{', '.join(guard.unsupported)}. Rewrite it using only numbers "
-                        f"that appear in EVENT, RACE SNAPSHOT or REGULATIONS."
-                    )
-                ]
-                text = self._ask(messages)
-                guard = check_numbers(text, context)
-        except Exception as exc:
-            log.warning(
-                "explainer.llm_failed",
-                extra={"fields": {"event": event.id, "error": type(exc).__name__}},
-            )
-            return self.template(event, level, regs)
-
-        latency = int((time.perf_counter() - start) * 1000)
-        if not guard.ok:
-            log.warning(
-                "explainer.guard_failed",
-                extra={"fields": {"event": event.id, "numbers": guard.unsupported}},
-            )
+        out = generate(self.llm, level, TASK, context, event.summary, label=event.id)
+        if out.source == "template":
             fallback = self.template(event, level, regs)
             return fallback.model_copy(
-                update={"guard_passed": False, "retries": retries, "latency_ms": latency}
+                update={
+                    "guard_passed": out.guard_passed,
+                    "retries": out.retries,
+                    "latency_ms": out.latency_ms,
+                }
             )
-        cited = {int(n) for n in re.findall(r"\[S(\d+)\]", text)}
+        cited = {int(n) for n in re.findall(r"\[S(\d+)\]", out.text)}
         citations = tuple(_citation(regs[i - 1]) for i in sorted(cited) if 0 < i <= len(regs))
         return Explanation(
             event_id=event.id,
             level=level,
-            text=text.strip(),
+            text=out.text,
             citations=citations,
             source="llm",
             guard_passed=True,
-            retries=retries,
-            latency_ms=latency,
+            retries=out.retries,
+            latency_ms=out.latency_ms,
         )
-
-    def _ask(self, messages: list) -> str:  # type: ignore[type-arg]
-        assert self.llm is not None
-        reply = self.llm.invoke(messages)
-        content = reply.content if hasattr(reply, "content") else str(reply)
-        if isinstance(content, list):  # some providers return content blocks
-            content = "".join(b.get("text", "") if isinstance(b, dict) else str(b) for b in content)
-        text = str(content).strip()
-        if not text:
-            raise ValueError("empty LLM response")
-        return text
